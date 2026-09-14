@@ -1,0 +1,49 @@
+name: Barrido semanal de licitaciones
+
+on:
+  schedule:
+    # Viernes a las 05:00 UTC (07:00 en España en invierno, 08:00 en verano).
+    # Corre ANTES que la tarea programada de Claude, que lee el resultado.
+    - cron: "0 5 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  barrido:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Ejecutar barrido
+        run: python barrido.py
+
+      - name: Publicar resultado
+        run: |
+          git config user.name  "barrido-licitaciones"
+          git config user.email "actions@github.com"
+          git add salida
+          if git diff --cached --quiet; then
+            echo "Sin cambios en salida/"
+          else
+            git commit -m "Barrido semanal $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Resumen en la pestaña del run
+        if: always()
+        run: |
+          if [ -f salida/ultimo.md ]; then
+            head -c 60000 salida/ultimo.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No se generó salida/ultimo.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
