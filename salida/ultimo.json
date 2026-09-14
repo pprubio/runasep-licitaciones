@@ -1,0 +1,4139 @@
+{
+ "fecha": "2026-09-14",
+ "generado": "2026-09-14T16:23:36+00:00",
+ "fuentes": [
+  {
+   "fuente": "licitaciones",
+   "url": "https://contrataciondelsectorpublico.gob.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom",
+   "feed_actualizado": "2026-09-08T20:12:20.736+02:00",
+   "feed_caducado": true,
+   "paginas": 8,
+   "entradas_vistas": 3524,
+   "mas_antigua": "2026-09-05T09:42:18.405+02:00",
+   "error": null,
+   "hits": [
+    {
+     "titulo": "[UT4] Servicio de transporte y gestión de residuos, incluyendo alquiler de contenedores para control de plagas en la isla de Gran Canaria.",
+     "expediente": "TEC0007134",
+     "organo": "Tecnologías y Servicios Agrarios S.A.,S.M.E., M.P., (TRAGSATEC)",
+     "estado": "ADJ",
+     "importe": "64440",
+     "adjudicado": "68950.8",
+     "adjudicatario": "Transportes Rivero Siglo XX,S.L",
+     "cpv": [
+      "90500000"
+     ],
+     "lugar": "Gran Canaria",
+     "ciudad": "Madrid",
+     "plazo": "2026-08-17",
+     "actualizado": "2026-09-08T15:08:30.834+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=dcpF0B8%2FecQwYTJJ03sHog%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20234047",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de funcionamiento y mantenimiento del sistema de saneamiento y depuración de aguas residuales de Xixona (Alicante).",
+     "expediente": "CMAYOR/2025/EPSAR/0105",
+     "organo": "Vicepresidencia del Consejo de Administración de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana",
+     "estado": "ADJ",
+     "importe": "2493171.48",
+     "adjudicado": "2354643.66",
+     "adjudicatario": "EXMAN EXPLOTACIÓN Y MANTENIMIENTO S.L.",
+     "cpv": [
+      "42996000",
+      "90481000"
+     ],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Valencia",
+     "plazo": "2025-10-10",
+     "actualizado": "2026-09-08T14:37:11.821+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2BGMP70FsM6cwYTJJ03sHog%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/17778015",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P1",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Limpieza, desbroce y vallado de solares y paracelas de propiedad municipal.",
+     "expediente": "0074157-25",
+     "organo": "Consejería de Urbanismo, Infraestructuras, Energía y Vivienda del Ayuntamiento de Zaragoza",
+     "estado": "RES",
+     "importe": "117960.98",
+     "adjudicado": "142732.79",
+     "adjudicatario": "CATFER 2013, S.L.",
+     "cpv": [
+      "50800000",
+      "77312000",
+      "77312100",
+      "77314000"
+     ],
+     "lugar": "Zaragoza",
+     "ciudad": "Zaragoza",
+     "plazo": "2025-12-12",
+     "actualizado": "2026-09-08T14:21:44.030+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zJm%2FIgvOibZVYjgxA4nMUw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18477154",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de asistencia técnica obra incremento almacenamiento nuevo depósito Monte Orgegia por Aguas Municipalizadas de Alicante, EM",
+     "expediente": "SE009/2026",
+     "organo": "Comité de Contratación de Aguas Municipalizadas de Alicante, Empresa Mixta",
+     "estado": "EV",
+     "importe": "63088.29",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "71311100"
+     ],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Alicante",
+     "plazo": "2026-06-10",
+     "actualizado": "2026-09-08T13:47:35.269+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=i3u779ZB5LQl5NjlNci%2BtA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19753525",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P1",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministro, instalación, configuración, puesta en marcha y mantenimiento del los sistemas de gestión padrón municipal de Alcantarilla",
+     "expediente": "1280748R",
+     "organo": "Alcaldía del Ayuntamiento de Alcantarilla",
+     "estado": "EV",
+     "importe": "156090",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "48900000",
+      "72262000",
+      "72267100",
+      "72590000"
+     ],
+     "lugar": "",
+     "ciudad": "Alcantarilla",
+     "plazo": "2026-09-07",
+     "actualizado": "2026-09-08T13:29:54.386+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XG5nvtjGrWWcCF8sV%2BqtYA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20328798",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de Formación en Prevención de Riesgos Laborales a impartir al personal de EMUASA",
+     "expediente": "027-SER-2023",
+     "organo": "Gerencia de la Empresa Municipal de Aguas y Saneamiento de Murcia S.A.",
+     "estado": "RES",
+     "importe": "32400",
+     "adjudicado": "32400",
+     "adjudicatario": "Cualtis S.L.U.",
+     "cpv": [
+      "80500000",
+      "80550000",
+      "80561000",
+      "80562000"
+     ],
+     "lugar": "Murcia",
+     "ciudad": "Murcia",
+     "plazo": "2023-07-20",
+     "actualizado": "2026-09-08T13:20:55.772+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZFZHN%2FVjeAuopEMYCmrbmw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13010735",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de Procuraduría para EMUASA",
+     "expediente": "018-SER-2026",
+     "organo": "Gerencia de la Empresa Municipal de Aguas y Saneamiento de Murcia S.A.",
+     "estado": "ADJ",
+     "importe": "44000",
+     "adjudicado": "53240",
+     "adjudicatario": "SEVILLA FLORES PROCURADORES REGIÓN DE MURCIA, S.L.P.",
+     "cpv": [
+      "79112000"
+     ],
+     "lugar": "Murcia",
+     "ciudad": "Murcia",
+     "plazo": "2026-07-16",
+     "actualizado": "2026-09-08T12:54:09.497+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hLak8JCi2we5HQrHoP3G5A%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19910333",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Obras de nueva regulación y transporte de aguas superficiales del río Mijares en la zona regable del sector Pinella 3, Vila-real (Castellón)",
+     "expediente": "CMAYOR/2026/26Y05/0034",
+     "organo": "Conselleria de Agricultura, Agua, Ganadería y Pesca",
+     "estado": "EV",
+     "importe": "4757440.02",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "09331200",
+      "45231100",
+      "45232152",
+      "45315400",
+      "45315600"
+     ],
+     "lugar": "Comunitat Valenciana",
+     "ciudad": "Valencia",
+     "plazo": "2026-07-27",
+     "actualizado": "2026-09-08T12:44:18.503+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CcBBOnBMjNDLIx6q1oPaMg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19957421",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministro de caudalímetros para el control de las aguas residuales para la obra \"Ampliación y Mejora de la EDAR de Playa de Santiago (T.M. Alajeró)\", en la isla de La Gomera.",
+     "expediente": "TSA0082986",
+     "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+     "estado": "RES",
+     "importe": "19665.74",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "38421000"
+     ],
+     "lugar": "La Gomera",
+     "ciudad": "Madrid",
+     "plazo": "2026-05-28",
+     "actualizado": "2026-09-08T12:41:01.169+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Srr2oZLhJ3B%2FP7lJ7Fu0SA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19596651",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "[UT4] Servicio de transporte por carretera en la obra Albergue Juvenil en el Pinar de Tamadaba, en el término municipal de Agaete. Isla de Gran Canaria.",
+     "expediente": "TSA0083640",
+     "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+     "estado": "ADJ",
+     "importe": "129760",
+     "adjudicado": "117058",
+     "adjudicatario": "Transportes Rivero Siglo XX,S.L",
+     "cpv": [
+      "60100000"
+     ],
+     "lugar": "Gran Canaria",
+     "ciudad": "Madrid",
+     "plazo": "2026-08-17",
+     "actualizado": "2026-09-08T12:29:57.181+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=azyI9sGgI8%2FyoM4us5k4vw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20232941",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Ejecución de las obras de Remodelación del pavimento de la pista polideportiva del CEIP Hermanos Coronel Velázquez de Píñar (Granada), de acuerdo con el proyecto técnico redactado por la arquitecta municipal D. María José Orgaz Vargas, aprobado por el Ayuntamiento de Píñar en el marco del expediente 2023.4.PIDE36.",
+     "expediente": "2023/4/PIDE-36",
+     "organo": "Alcaldía del Ayuntamiento de Piñar",
+     "estado": "EV",
+     "importe": "49394.58",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "45212000",
+      "45212200"
+     ],
+     "lugar": "Granada",
+     "ciudad": "Piñar",
+     "plazo": "2026-08-31",
+     "actualizado": "2026-09-08T12:27:47.080+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=W4y2YsmYF1j5Rey58Yagpg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20297146",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "[UT4] Servicio de gestión de residuos no peligrosos para la obra de Acondicionamiento paisajístico del Oasis Palmeral de Maspalomas, Término Municipal de San Bartolomé de Tirajana, isla de Gran Canaria.",
+     "expediente": "TSA0083924",
+     "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+     "estado": "EV",
+     "importe": "61962.4",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "90513000"
+     ],
+     "lugar": "Gran Canaria",
+     "ciudad": "Madrid",
+     "plazo": "2026-09-03",
+     "actualizado": "2026-09-08T12:09:43.695+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Mdi5tCh5N98%2Bk2oCbDosIw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20317146",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "RF64023 Prospección red de evaluación fitosanitaria 2026",
+     "expediente": "MAT-2026-20055",
+     "organo": "Departamento de Medio Ambiente y Turismo del Gobierno de Aragón",
+     "estado": "EV",
+     "importe": "106903.01",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "77231000"
+     ],
+     "lugar": "Aragón",
+     "ciudad": "Zaragoza",
+     "plazo": "2026-06-22",
+     "actualizado": "2026-09-08T11:38:08.906+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LX2oDFeGEsCopEMYCmrbmw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19821439",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio que tiene por objeto las actuaciones de control de plagas en las dependencias municipales. Se pretende aglutinar todas estas acciones dentro de un mismo contrato que permita tener una estrategia de conjunto y a largo plazo, optimizando los recursos municipales.",
+     "expediente": "5204/2026",
+     "organo": "Junta de Gobierno del Ayuntamiento Sant Joan D Alacant",
+     "estado": "EV",
+     "importe": "12640",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "90922000"
+     ],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Sant Joan D'Alacant",
+     "plazo": "2026-07-23",
+     "actualizado": "2026-09-08T11:13:29.800+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EHRRs19lZqlLAIVZdUs8KA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20041018",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P1",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de vigilancia y control de plagas en el municipio de Pego.",
+     "expediente": "456/2026",
+     "organo": "Alcaldía del Ayuntamiento de Pego",
+     "estado": "RES",
+     "importe": "73546",
+     "adjudicado": "17424",
+     "adjudicatario": "SERVIPLAG-SAI S.L",
+     "cpv": [
+      "90922000",
+      "90923000",
+      "90924000"
+     ],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Pego",
+     "plazo": "2026-06-12",
+     "actualizado": "2026-09-08T10:44:51.577+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8xLnuGjZc3XpxJFXpLZ%2B2A%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19773005",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P1",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Reposición de pavimento asfáltico en varias calles de Espinardo, El Palmar, Zarandona, Beniaján y Guadalupe (Murcia), mediante cinco (5) lotes",
+     "expediente": "2025_0186",
+     "organo": "Junta de Gobierno del Ayuntamiento de Murcia",
+     "estado": "ADJ",
+     "importe": "700605.77",
+     "adjudicado": "44143.21",
+     "adjudicatario": "CHM OBRAS E INFRAESTRUCTURAS SA",
+     "cpv": [
+      "45233220",
+      "45233251"
+     ],
+     "lugar": "Murcia",
+     "ciudad": "Murcia",
+     "plazo": "2026-06-01",
+     "actualizado": "2026-09-08T09:54:50.487+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=RR%2B2xo8ZTNI7u6%2B%2FR7DUoA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19656261",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministro de material fungible de esterilización y trazabilidad para Unión de Mutuas, MCSS N.º 267.",
+     "expediente": "68/2026",
+     "organo": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+     "estado": "PUB",
+     "importe": "72783.34",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "33140000"
+     ],
+     "lugar": "España",
+     "ciudad": "Castellón",
+     "plazo": "2026-09-10",
+     "actualizado": "2026-09-08T09:03:36.664+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3p0Xj6TxeCdVYjgxA4nMUw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20337900",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministros de reactivos, patrones, cubetas-test y fungibles para el laboratorio de aguas de la Diputación de Granada.",
+     "expediente": "SU 8/2026",
+     "organo": "Presidencia de la Diputación Provincial de Granada",
+     "estado": "ADJ",
+     "importe": "55402.18",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "33696500"
+     ],
+     "lugar": "Granada",
+     "ciudad": "Granada",
+     "plazo": "2026-07-03",
+     "actualizado": "2026-09-08T08:41:04.355+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kkxjLi98WwGHCIsjvJ3rhQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19893672",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Contratación del servicio de analítica convencional, en aguas subterráneas y superficiales, y asesoramiento en fertilización de cultivos basado en la interpretación de analítica de suelos y agua de riego, para las anualidades 2026-2027, en el marco del proyecto 3055364 - Nitratos Castilla-La Mancha 2024-2027",
+     "expediente": "TEC0007129",
+     "organo": "Tecnologías y Servicios Agrarios S.A.,S.M.E., M.P., (TRAGSATEC)",
+     "estado": "EV",
+     "importe": "75745",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "71600000",
+      "71900000"
+     ],
+     "lugar": "España",
+     "ciudad": "Madrid",
+     "plazo": "2027-12-31",
+     "actualizado": "2026-09-07T17:10:02.481+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2BfvFmTDW8u04NavIWzMcHA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19994536",
+     "familias": [
+      "nucleo",
+      "urbano_agricola"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Obras de construcción de la estación depuradora de aguas residuales de Sonseca (Toledo)",
+     "expediente": "2024/011657",
+     "organo": "Presidencia de Infraestructuras del Agua de Castilla-La Mancha",
+     "estado": "ADJ",
+     "importe": "7944037.49",
+     "adjudicado": "8008269.69",
+     "adjudicatario": "UTE ELECNOR SERVICIOS Y PROYECTOS SAU/AUDECA, S.L.U.",
+     "cpv": [
+      "45232420"
+     ],
+     "lugar": "Toledo",
+     "ciudad": "Toledo",
+     "plazo": "2025-01-16",
+     "actualizado": "2026-09-07T14:13:43.930+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Z7tXtMfUzraAAM7L03kM8A%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/16095507",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Obras del proyecto de renovación de parques municipales de Burjassot. Mejora y ampliación de zonas verdes. Pla Obert d'Inversions 2024-2027 de la Diputació De València (POI2024-2027).",
+     "expediente": "2026/9591J",
+     "organo": "Junta de Gobierno del Ayuntamiento de Burjassot",
+     "estado": "ADJ",
+     "importe": "777869.68",
+     "adjudicado": "279582.04",
+     "adjudicatario": "MOBIPARK, S.L.",
+     "cpv": [
+      "37535200",
+      "43325000",
+      "45112000",
+      "45236210"
+     ],
+     "lugar": "Valencia/València",
+     "ciudad": "Burjassot (Valencia)",
+     "plazo": "2026-08-04",
+     "actualizado": "2026-09-07T13:39:53.951+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=jLPz7YdbMmLua%2Fi14w%2FPLA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20060578",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministro de producto fitosanitario (piretrinas + feromonas) para el control de Delottococcus aberiae en los cítricos de la Comunitat Valenciana, campaña 2027.",
+     "expediente": "CMAYOR/2026/26Y03/0044",
+     "organo": "Conselleria de Agricultura, Agua, Ganadería y Pesca",
+     "estado": "EV",
+     "importe": "2177280",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "24452000"
+     ],
+     "lugar": "Comunitat Valenciana",
+     "ciudad": "Valencia",
+     "plazo": "2026-09-04",
+     "actualizado": "2026-09-07T13:32:31.869+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=O1yrKeQFSyoQyBAnWzHfCg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19900699",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Obras de acondicionado de parcela para la ejecución de aparcamiento disuasorio en Barrio San Roque, en Molina de Segura. Incorporando Criterios Sociales.",
+     "expediente": "OBR-ABR_SMPL/2026000256",
+     "organo": "Junta de Gobierno del Ayuntamiento de Molina de Segura",
+     "estado": "EV",
+     "importe": "123854.59",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "45200000"
+     ],
+     "lugar": "",
+     "ciudad": "Molina de Segura (Murcia)",
+     "plazo": "2026-09-03",
+     "actualizado": "2026-09-07T13:19:27.429+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LemAyY6T1i47u6%2B%2FR7DUoA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20297385",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Contratación del servicio de grúas con conductor para el Circuito del motor y promoción deportiva S.A",
+     "expediente": "CMAYOR/2026/CMPD0/0005",
+     "organo": "Dirección General del Circuito del Motor y Promoción Deportiva S.A.",
+     "estado": "ADJ",
+     "importe": "348947.71",
+     "adjudicado": "76.39",
+     "adjudicatario": "ENERGIA Y TRANSPORTE LEVANTE 2022 SLU",
+     "cpv": [
+      "42414100",
+      "45510000",
+      "50118110",
+      "60000000"
+     ],
+     "lugar": "Valencia/València",
+     "ciudad": "Cheste - Valencia",
+     "plazo": "2026-07-22",
+     "actualizado": "2026-09-07T13:09:27.929+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Tzt2PEj6VZWS81gZFETWmA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19900603",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Tratamientos selvícolas en masas decaídas, dentro del MUP nº 44, \"Dehesa de Navalengua\", perteneciente al Ayuntamiento de Peñascosa.",
+     "expediente": "2026/033203",
+     "organo": "Dirección General de Medio Natural y Biodiversidad de la Junta de Comunidades de Castilla-La Mancha",
+     "estado": "EV",
+     "importe": "127306.6",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "45111220",
+      "45262640"
+     ],
+     "lugar": "Albacete",
+     "ciudad": "Toledo",
+     "plazo": "2026-06-01",
+     "actualizado": "2026-09-07T12:52:00.424+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l5ThO4hErMrXOjazN1Dw9Q%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19664071",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Establecimiento de un Sistema Dinámico de Adquisición para el suministro de materiales eléctricos de la Empresa Municipal Aguas de Málaga, S.A.",
+     "expediente": "25-659",
+     "organo": "Consejero Delegado de la Empresa Municipal de Aguas de Málaga S.A.",
+     "estado": "EV",
+     "importe": "1200000",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "31000000"
+     ],
+     "lugar": "Málaga",
+     "ciudad": "Málaga",
+     "plazo": "2030-01-30",
+     "actualizado": "2026-09-07T12:33:03.704+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MYQBpU1JUkqOUi78BmzhOQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18721872",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministro de fontanería necesarios en los diversos trabajos de la Empresa Municipal Aguas de Málaga, S.A. mediante Sistema Dinámico de Adquisición",
+     "expediente": "22-231",
+     "organo": "Consejero Delegado de la Empresa Municipal de Aguas de Málaga S.A.",
+     "estado": "EV",
+     "importe": "750000",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "42131141",
+      "42131230",
+      "42131280",
+      "43830000",
+      "44100000",
+      "44115210"
+     ],
+     "lugar": "Málaga",
+     "ciudad": "Málaga",
+     "plazo": "2027-06-18",
+     "actualizado": "2026-09-07T12:28:10.877+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KPJQIlUuxgKopEMYCmrbmw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12767945",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Obras de construcción de dos pistas de pádel cubiertas en calle Los Pinos n.º 1, Benalúa (Granada) procedimiento abierto simplificado - art. 159 lcsp",
+     "expediente": "2024/4/PIDE-4",
+     "organo": "Alcaldía del Ayuntamiento de Benalúa",
+     "estado": "RES",
+     "importe": "121380",
+     "adjudicado": "146708.24",
+     "adjudicatario": "EQUIPAMIENTOS DEPORTIVOS, S.A.",
+     "cpv": [
+      "45212200",
+      "45212221"
+     ],
+     "lugar": "Granada",
+     "ciudad": "Benalúa",
+     "plazo": "2026-06-08",
+     "actualizado": "2026-09-07T12:12:56.391+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qaRq7TPQUxvs%2BnLj3vAg5A%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19705503",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Concesion demanial de uso privativo de dominio público para la gestión del quiosco ubicado en el parque exterior a la Urbanización \"Condado de Alhama\" de Alhama de Murcia, así como el Quiosco ubicado en el jardín El Palmeral.",
+     "expediente": "2025000032",
+     "organo": "Alcaldía del Ayuntamiento de Alhama de Murcia",
+     "estado": "ADJ",
+     "importe": "940.4",
+     "adjudicado": "1240",
+     "adjudicatario": "ALBERTO JIMENEZ JIMENEZ",
+     "cpv": [
+      "55410000"
+     ],
+     "lugar": "Murcia",
+     "ciudad": "Alhama De Murcia",
+     "plazo": "2026-07-22",
+     "actualizado": "2026-09-07T10:59:26.366+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0biBgxtfrZ2AAM7L03kM8A%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19910656",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "obras del tanque de tormentas en la zona este, para la laminación de las aguas pluviales recogidas por la red de saneamiento del municipio de Marchamalo,",
+     "expediente": "871/2026",
+     "organo": "Alcaldia del Ayuntamiento de Marchamalo",
+     "estado": "EV",
+     "importe": "795165.5",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "44130000",
+      "45000000",
+      "45232411",
+      "45232420",
+      "45232421",
+      "45232454"
+     ],
+     "lugar": "Guadalajara",
+     "ciudad": "Marchamalo",
+     "plazo": "2026-08-26",
+     "actualizado": "2026-09-07T10:47:42.000+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=S9HDuxxybdaFQ%2FlhRK79lA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20232432",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Suministro de gases medicinales y alquiler de botellas para las distintas delegaciones, así como el servicio de mantenimiento preventivo y correctivo de la instalación de gases del Instituto de Traumatología de Unión de Mutuas, MCSS, nº 267 en Castellón de la Plana.",
+     "expediente": "70/2026",
+     "organo": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+     "estado": "PUB",
+     "importe": "155423.9",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "24111500"
+     ],
+     "lugar": "España",
+     "ciudad": "Castellón",
+     "plazo": "2026-09-07",
+     "actualizado": "2026-09-07T10:30:52.039+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=SGkuQgpG6CB70UvEyYJSGw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20317388",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de peritación médica para Unión de Mutuas MCSS nº 267, en el ámbito de sus delegaciones de las provincias de Cataluña e Islas Baleares- Procedimiento simplificado.",
+     "expediente": "56/2026",
+     "organo": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+     "estado": "RES",
+     "importe": "22706",
+     "adjudicado": "26264.26",
+     "adjudicatario": "Aurelio Berruezo Blanco",
+     "cpv": [
+      "85100000"
+     ],
+     "lugar": "España",
+     "ciudad": "Castellón",
+     "plazo": "2026-07-22",
+     "actualizado": "2026-09-07T10:08:22.941+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KDmv3XeyrLcwYTJJ03sHog%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19979482",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio de formación en mantenimiento de drones fpv en la academia de logistica.",
+     "expediente": "2026/ETSAE0327/00003472E",
+     "organo": "Jefatura de Intendencia de Asuntos Económicos Este",
+     "estado": "RES",
+     "importe": "22500",
+     "adjudicado": "20146.5",
+     "adjudicatario": "PRECISIÓN AÉREA INNOVACIÓN Y NUEVAS TECNOLOGÍAS, S.L.",
+     "cpv": [
+      "79632000"
+     ],
+     "lugar": "Zaragoza",
+     "ciudad": "Zaragoza",
+     "plazo": "2026-08-04",
+     "actualizado": "2026-09-07T09:56:32.273+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=AzElriC0KxbjHF5qKI4aaw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20067888",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Servicio De Jardinería En El Aeropuerto",
+     "expediente": "GRX-54/2026",
+     "organo": "Aena. Dirección del Aeropuerto de Granada-Jaén F.G.L.",
+     "estado": "PUB",
+     "importe": "59000",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "77310000"
+     ],
+     "lugar": "Granada",
+     "ciudad": "Chauchina",
+     "plazo": "2026-09-07",
+     "actualizado": "2026-09-07T09:55:30.845+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=w%2BJe2NDnge6qb7rCcv76BA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20269497",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Contrato de servicios de depuración de aguas residuales de Lillo.",
+     "expediente": "100/2026",
+     "organo": "Pleno del Alcaldía del Ayuntamiento de Lillo",
+     "estado": "EV",
+     "importe": "2242683.32",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "45252130",
+      "45259100",
+      "90420000",
+      "90481000"
+     ],
+     "lugar": "Toledo",
+     "ciudad": "Lillo",
+     "plazo": "2026-05-27",
+     "actualizado": "2026-09-07T09:25:37.178+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=HFSRv20rncM2wEhQbcAqug%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19579676",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Control de la Calidad del Agua de Consumo, de las Aguas Residuales y del Agua de la Piscina Pública \"Santiago Vidal\". Número de expediente 0003-26PSE",
+     "expediente": "0003-26PSE",
+     "organo": "Consejo de Administración de Servicios Comunitarios de Molina S.A. (SERCOMOSA)",
+     "estado": "RES",
+     "importe": "134024.61",
+     "adjudicado": "110755.8",
+     "adjudicatario": "UTE 2026 EUROFINS SERCOMOSA",
+     "cpv": [
+      "71900000"
+     ],
+     "lugar": "Murcia",
+     "ciudad": "Molina del Segura (Murcia)",
+     "plazo": "2026-05-25",
+     "actualizado": "2026-09-07T09:00:00.000+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hNLXrLoc7XWTylGzYmBF9Q%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19499353",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Contratación del servicio de alquiler de grúas con operario especializado de acuerdo con las necesidades de Ciudad de las Artes y de las Ciencias, SAU",
+     "expediente": "0099-25",
+     "organo": "Dirección General de la Ciudad de las Artes y de las Ciencias S.A.",
+     "estado": "RES",
+     "importe": "10000",
+     "adjudicado": "12100",
+     "adjudicatario": "Grúas Alapont s.a.",
+     "cpv": [
+      "45500000",
+      "60000000"
+     ],
+     "lugar": "Valencia/València",
+     "ciudad": "Valencia",
+     "plazo": "2025-10-28",
+     "actualizado": "2026-09-07T08:47:30.703+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=upYoqKB%2BWXXXOjazN1Dw9Q%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18126627",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "UT2 Servicio de realización de tratamientos selvícolas preventivos en los términos municipales de Maó y Es Castell, en la Isla de Menorca, para el proyecto actuacions silvícoles preventives sobre el territori previstes en els plans d'actuacions d'àmbit local davant emergències per incendis forestals de Menorca.",
+     "expediente": "TSA0083897",
+     "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+     "estado": "EV",
+     "importe": "130384.34",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "77200000"
+     ],
+     "lugar": "Menorca",
+     "ciudad": "Madrid",
+     "plazo": "2026-08-26",
+     "actualizado": "2026-09-07T08:35:05.164+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=NXz7VZUaSuLua%2Fi14w%2FPLA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20269643",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    },
+    {
+     "titulo": "Mantenimiento y explotación transitoria de las instalaciones de abastecimiento alternativo al embalse de El Tejo para garantizar la disponibilidad de recurso al municipio de El Espinar y a la Mancomunidad de La Mujer Muerta",
+     "expediente": "452-A.210.00.04/2026",
+     "organo": "Confederación Hidrográfica del Duero, O.A.",
+     "estado": "PUB",
+     "importe": "1148396.03",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "50500000",
+      "65120000"
+     ],
+     "lugar": "Segovia",
+     "ciudad": "Valladolid",
+     "plazo": "2026-09-07",
+     "actualizado": "2026-09-07T08:05:35.716+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZWf0n8DjPfbECtSnloz%2BZQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20329407",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P4",
+     "fuente": "licitaciones"
+    }
+   ]
+  },
+  {
+   "fuente": "agregadas",
+   "url": "https://contrataciondelsectorpublico.gob.es/sindicacion/sindicacion_1044/PlataformasAgregadasSinMenores.atom",
+   "feed_actualizado": "2026-09-14T03:00:16.919+02:00",
+   "feed_caducado": false,
+   "paginas": 11,
+   "entradas_vistas": 4677,
+   "mas_antigua": "2026-09-04T18:41:20.062+02:00",
+   "error": null,
+   "hits": [
+    {
+     "titulo": "Contratación del servicio de tratamiento contra la procesionaria del pino (Thaumetopoea pityocampa Den. & Shciff.) mediante aplicación aérea de productos fitosanitarios con helicóptero de turbina en la campaña 2026.",
+     "expediente": "ADM1 2026 3540",
+     "organo": "",
+     "estado": "RES",
+     "importe": "58800",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "34711500"
+     ],
+     "lugar": "",
+     "ciudad": "",
+     "plazo": "2026-08-21",
+     "actualizado": "2026-09-11T13:11:34.845+02:00",
+     "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso732692/es_doc/index.html",
+     "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20272440",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "agregadas"
+    },
+    {
+     "titulo": "- Realització i edició de reportatges fotogràfics: Consistent en la realització de reportatges fotogràfics d'actes institucionals, de l'evolució de la ciutat, de les activitats socials, culturals i esportives al municipi, de les campanyes de comunicació, fotografies d’estudi i altres reportatges per il·lustrar els elements informatius municipals i el material de difusió institucional de l’Ajuntament de Sabadell - Creació, producció i edició de vídeos: Serveis de producció, realització, gravació i edició de continguts audiovisuals de caràcter periodístic o informatiu, institucional, promocional o turístic de l'Ajuntament de Sabadell. Així com l’emissió en streaming. - Captació d’imatges aèries amb dron.",
+     "expediente": "COM/2026/20",
+     "organo": "Ajuntament de Sabadell",
+     "estado": "EN",
+     "importe": "84741.1",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "79961000",
+      "79961200",
+      "92111200"
+     ],
+     "lugar": "",
+     "ciudad": "",
+     "plazo": "2026-09-15",
+     "actualizado": "2026-09-10T14:08:14.808+02:00",
+     "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/555919ba-97b0-410d-b89a-6561c272f5fd/300880104",
+     "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20384755",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "agregadas"
+    },
+    {
+     "titulo": "taa4104osv0 poliza seguro responsabilidad civil drones de la aopja",
+     "expediente": "CONTR 2024 0000459862",
+     "organo": "",
+     "estado": "RES",
+     "importe": "450",
+     "adjudicado": "",
+     "adjudicatario": "MAPFRE ESPAÑA COMPAÑIA DE SEGUROS Y REASEGUROS SA",
+     "cpv": [
+      "66516200"
+     ],
+     "lugar": "",
+     "ciudad": "",
+     "plazo": "2024-06-19",
+     "actualizado": "2026-09-09T12:41:14.478+02:00",
+     "enlace": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=685202",
+     "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15043242",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "agregadas"
+    },
+    {
+     "titulo": "És objecte d’aquest contracte la prestació del servei d’organització integral de la sortida cultural al castell Gala Dalí, a Púbol, adreçada a les persones de 60 anys o més empadronades a Parets del Vallès, d’acord amb les especificacions establertes en aquest plec de clàusules administratives particulars, en el plec de prescripcions tècniques i en la resta de documentació contractual.",
+     "expediente": "2026 2356",
+     "organo": "Ajuntament de Parets del Vallès",
+     "estado": "PENDIENTE",
+     "importe": "14872",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "63510000",
+      "63511000",
+      "63515000",
+      "63516000"
+     ],
+     "lugar": "",
+     "ciudad": "",
+     "plazo": "2026-11-06",
+     "actualizado": "2026-09-09T12:04:53.004+02:00",
+     "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/2083fa0f-0e0b-4bdd-a382-ce05107305ba/300878410",
+     "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20147481",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "agregadas"
+    },
+    {
+     "titulo": "servicio de instalación tanques de inercia y adecuación grupos hidrónicos de calor para instalación de clima del edificio de servicios área de el fresno. red logística bahía de algeciras",
+     "expediente": "AB-BA26-000396",
+     "organo": "",
+     "estado": "EV",
+     "importe": "60500",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "50711000"
+     ],
+     "lugar": "",
+     "ciudad": "",
+     "plazo": "2026-08-25",
+     "actualizado": "2026-09-09T11:41:43.750+02:00",
+     "enlace": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=982514",
+     "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20279024",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "agregadas"
+    }
+   ]
+  },
+  {
+   "fuente": "menores",
+   "url": "https://contrataciondelsectorpublico.gob.es/sindicacion/sindicacion_1143/contratosMenoresPerfilesContratantes.atom",
+   "feed_actualizado": "2026-09-14T03:02:54.131+02:00",
+   "feed_caducado": false,
+   "paginas": 9,
+   "entradas_vistas": 4162,
+   "mas_antigua": "2026-09-03T11:43:02.687+02:00",
+   "error": null,
+   "hits": [
+    {
+     "titulo": "contrato menor SERVICIO de restauración para las tres leguas agosto 2026",
+     "expediente": "1641602D",
+     "organo": "Alcaldía del Ayuntamiento de Villamalea",
+     "estado": "RES",
+     "importe": "153",
+     "adjudicado": "168.3",
+     "adjudicatario": "ELENA BULDUI",
+     "cpv": [
+      "55300000"
+     ],
+     "lugar": "ALBACETE",
+     "ciudad": "Villamalea",
+     "plazo": "2026-09-02",
+     "actualizado": "2026-09-13T03:47:00.433+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=JbbUwmDTEMgzjChw4z%2FXvw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20412688",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "contrato menor SUMINISTRO bebidas para la carrera de las tres leguas agosto 2026",
+     "expediente": "1641148Y",
+     "organo": "Alcaldía del Ayuntamiento de Villamalea",
+     "estado": "RES",
+     "importe": "3605.48",
+     "adjudicado": "3605.48",
+     "adjudicatario": "D.B.A. MOLINERO GARCIA S.L.",
+     "cpv": [
+      "15000000"
+     ],
+     "lugar": "ALBACETE",
+     "ciudad": "Villamalea",
+     "plazo": "2026-09-01",
+     "actualizado": "2026-09-13T01:17:22.743+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ACuP1ojEORY7%2B9FIQYNjeQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401123",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Adquisición de materiales para mantenimiento de zonas verdes a Suministros Gómez en agosto 2026",
+     "expediente": "1642235H",
+     "organo": "Alcaldía del Ayuntamiento de La Recueja",
+     "estado": "RES",
+     "importe": "270.46",
+     "adjudicado": "327.26",
+     "adjudicatario": "Suministros Gómez S.L.",
+     "cpv": [
+      "44316400"
+     ],
+     "lugar": "ALBACETE",
+     "ciudad": "La Recueja",
+     "plazo": "2026-09-03",
+     "actualizado": "2026-09-13T00:34:03.982+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LtM6fRLgSAKGCFcHcNGIlQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401237",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "CONmenor servicio triturado restos de poda Parques y Jardines. Subvención Diputación",
+     "expediente": "1854720A",
+     "organo": "Alcaldia del Ayuntamiento de Pinoso",
+     "estado": "RES",
+     "importe": "1530",
+     "adjudicado": "1851.3",
+     "adjudicatario": "TRABAJOS AGRICOLAS CALPRIC SL",
+     "cpv": [
+      "90514000"
+     ],
+     "lugar": "ALACANT",
+     "ciudad": "Pinoso",
+     "plazo": "2026-08-31",
+     "actualizado": "2026-09-13T00:18:38.489+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hlGatQHg2JXua%2Fi14w%2FPLA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401297",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato menor de suministro de un dron para el Área de Comunicación",
+     "expediente": "3003527Q",
+     "organo": "Alcaldía del Ayuntamiento de Paiporta",
+     "estado": "RES",
+     "importe": "933.06",
+     "adjudicado": "1129",
+     "adjudicatario": "ACRE SOLUCIONES TOPOGRAFICAS ALQUILER Y VENTA SL",
+     "cpv": [
+      "34711200"
+     ],
+     "lugar": "VALENCIA",
+     "ciudad": "Paiporta (Valencia)",
+     "plazo": "2026-09-02",
+     "actualizado": "2026-09-12T02:45:54.966+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YeQPcdFSDS%2Fmnwcj%2BxbdTg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401352",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Coordinación de Seguridad y Salud de las obras de adecuación aseos planta baja en el CRA EL SABINAR-Aulario Titaguas de Titaguas. / Coordinació de Seguretat i Salut de les obres d adequació lavabos planta baixa en el CRA EL SABINAR-Aulari Titaguas de Titaguas.",
+     "expediente": "CMENOR/2026/39N16/0296-2026/13671",
+     "organo": "Conselleria de Educación, Cultura y Universidades",
+     "estado": "RES",
+     "importe": "625",
+     "adjudicado": "756.25",
+     "adjudicatario": "VERDE FERNANDEZ JOSE IGNACIO",
+     "cpv": [
+      "71000000"
+     ],
+     "lugar": "España",
+     "ciudad": "Valencia",
+     "plazo": "",
+     "actualizado": "2026-09-12T02:09:45.527+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YcMW9JTsXwHmnwcj%2BxbdTg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401391",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Obra demolición caseta de jardinería_RPDFI Y CD SANTA FAZ / Obra demolición caseta de jardinería_RPDFI Y CD SANTA FAZ",
+     "expediente": "CMENOR/2026/30N09/0226-2026/13616",
+     "organo": "Conselleria de Servicios Sociales, Familia e Infancia",
+     "estado": "RES",
+     "importe": "15410.16",
+     "adjudicado": "18646.29",
+     "adjudicatario": "CONSTRUTEC S.COOP.V.LTDA",
+     "cpv": [
+      "45000000"
+     ],
+     "lugar": "Alicante",
+     "ciudad": "Valencia",
+     "plazo": "",
+     "actualizado": "2026-09-12T02:08:14.337+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Trkx%2FeyNIjg7u6%2B%2FR7DUoA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401403",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Adquisición de 30 paraguas protección solar UPF50+ serigrafiados con el logo de A punt / Adquisició de 30 paraigua protecció solar UPF50 serigrafiats amb el logo de punt",
+     "expediente": "CN5M26/CACVSA/99-2026/13828",
+     "organo": "Dirección General de la Corporación Audiovisual de la Comunitat Valenciana, S.A.",
+     "estado": "RES",
+     "importe": "248.4",
+     "adjudicado": "300.56",
+     "adjudicatario": "GIFT CAMPAIGN SL",
+     "cpv": [
+      "39295200"
+     ],
+     "lugar": "Valencia",
+     "ciudad": "Burjassot",
+     "plazo": "",
+     "actualizado": "2026-09-12T02:06:50.187+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MKPoECRtVjbjHF5qKI4aaw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401414",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "URBEX. Recogida muestras UASA / URBEX. Arreplegada mostres UASA",
+     "expediente": "CMENOR/2026/26N06/0332-2026/13618",
+     "organo": "Dirección General de la Industria y Cadena Agroalimentaria",
+     "estado": "RES",
+     "importe": "9857",
+     "adjudicado": "11926.97",
+     "adjudicatario": "URBEX EXPRES, SL",
+     "cpv": [
+      "60000000"
+     ],
+     "lugar": "España",
+     "ciudad": "Valencia",
+     "plazo": "",
+     "actualizado": "2026-09-12T02:05:49.172+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eOfJlObNJzXI8aL3PRS10Q%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401422",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Suministro de productos de jardinería, agrícolas y fitosanitarios",
+     "expediente": "2999289E",
+     "organo": "Alcaldía del Ayuntamiento de Cullera",
+     "estado": "RES",
+     "importe": "2954.3",
+     "adjudicado": "3249.73",
+     "adjudicatario": "SOCIEDAD COOPERATIVA CULLERCOOP COOP V",
+     "cpv": [
+      "03110000"
+     ],
+     "lugar": "VALENCIA",
+     "ciudad": "Cullera",
+     "plazo": "2026-08-23",
+     "actualizado": "2026-09-12T01:30:44.526+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=k%2FklJwmViLf10HRJw8TEnQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401458",
+     "familias": [
+      "nucleo",
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato menor suministro de sustratos, fertilizantes y fitosanitarios para las prácticas del alumnado de jardinería de Escuela Taller \"PAIPORTA URBAN NET2\" FESTA/2025/14/46",
+     "expediente": "2967605Z",
+     "organo": "Alcaldía del Ayuntamiento de Paiporta",
+     "estado": "RES",
+     "importe": "1405.9",
+     "adjudicado": "1701.14",
+     "adjudicatario": "MERCAJARDIN MORENO SOCIEDAD LIMITADA",
+     "cpv": [
+      "03120000"
+     ],
+     "lugar": "VALENCIA",
+     "ciudad": "Paiporta (Valencia)",
+     "plazo": "2026-09-03",
+     "actualizado": "2026-09-12T01:00:57.460+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=6VtMWcqRmI8aF6cS8TCh%2FA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401476",
+     "familias": [
+      "nucleo",
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato Menor Servicios: Desbroce con cabra celtiverica de los cortafuegos de orden 1 y 2, del T.M. de Vallada con etiquetas xat-ac-42.01.04.0, xat ac-42.01.07.0;xat-ac-42.03.09.0;xat-ac-42.05.10.0. Subvención Fondo estratégico pr incencios y gestión forestal 2026",
+     "expediente": "2922776M",
+     "organo": "Alcaldía del Ayuntamiento de Vallada",
+     "estado": "RES",
+     "importe": "8618.11",
+     "adjudicado": "10427.91",
+     "adjudicatario": "RAMON CALATAYUD GOMEZ",
+     "cpv": [
+      "77312000"
+     ],
+     "lugar": "VALENCIA",
+     "ciudad": "Vallada (Valencia)",
+     "plazo": "2026-08-31",
+     "actualizado": "2026-09-12T00:03:26.072+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=G8kXDmb%2F8TTLIx6q1oPaMg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401523",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato menor obra \"Pavimentación de vial V-1 de Pinet para la prevención de incendios forestales\". Fondo estrategico municipal. PIFFE/2026/0011/46",
+     "expediente": "2999329K",
+     "organo": "Alcaldia del Ayuntamiento de Pinet",
+     "estado": "RES",
+     "importe": "16214.41",
+     "adjudicado": "19619.44",
+     "adjudicatario": "JOAN ARTES CHAFER",
+     "cpv": [
+      "50230000"
+     ],
+     "lugar": "VALENCIA",
+     "ciudad": "Pinet",
+     "plazo": "2026-08-25",
+     "actualizado": "2026-09-12T00:02:26.340+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=A3y0gE0ILLcaF6cS8TCh%2FA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401531",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "P.G. 6.763,90 - Claitana servicios y mantenimientos - Refuerzo colocación jardineras entrada vuelta ciclista - Septiembre",
+     "expediente": "1640328J",
+     "organo": "Alcaldía del Ayuntamiento de Elche de la Sierra",
+     "estado": "RES",
+     "importe": "5590",
+     "adjudicado": "6763.9",
+     "adjudicatario": "Claitana Servicios y Mantenimientos, S.L.",
+     "cpv": [
+      "77312100"
+     ],
+     "lugar": "ALBACETE",
+     "ciudad": "Elche de la Sierra",
+     "plazo": "2026-08-30",
+     "actualizado": "2026-09-11T22:36:45.818+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4VIpj1xdASwXhk1FZxEyvw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401612",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Servicios de Pequeñas reparaciones de fontanería, carpintería, albañilería, cerrajería, electricidad, consumibles y/o sustitución bombillas, jardinería de interior y exterior",
+     "expediente": "CTRO/30/00/2026/0044",
+     "organo": "Director Gerente de FREMAP",
+     "estado": "RES",
+     "importe": "80",
+     "adjudicado": "96.8",
+     "adjudicatario": "MASTER INGENIEROS S A",
+     "cpv": [
+      "50000000"
+     ],
+     "lugar": "Región de Murcia",
+     "ciudad": "Majadahonda (Madrid)",
+     "plazo": "",
+     "actualizado": "2026-09-11T15:48:08.266+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XYefxDfTonA3vLk2DU2Ddg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401713",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Adquisición de material de jardinería para los parques y jardines municipales.",
+     "expediente": "CM 193/2026",
+     "organo": "Junta de Gobierno del Ayuntamiento de Biar",
+     "estado": "RES",
+     "importe": "30.72",
+     "adjudicado": "37.17",
+     "adjudicatario": "Bodega Cooperativa Agrícola Divina Aurora, CV",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Biar",
+     "plazo": "",
+     "actualizado": "2026-09-11T13:58:31.101+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CUtGwjpSq1LCfVQHDepjGQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401856",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "SSCC.PA/223/26 Póliza de seguros de Mapfre Nº 0652674596864 de tres drones ubicación: Serv. Caza y Pesca",
+     "expediente": "2026/039519",
+     "organo": "Viceconsejería de Medio Ambiente de la Junta de Comunidades de Castilla-La Mancha",
+     "estado": "RES",
+     "importe": "1376.81",
+     "adjudicado": "1376.81",
+     "adjudicatario": "MAPFRE ESPAÑA, COMPAÑÍA DE SEGUROS",
+     "cpv": [
+      "66510000"
+     ],
+     "lugar": "Castilla-LaMancha",
+     "ciudad": "Toledo",
+     "plazo": "2026-09-04",
+     "actualizado": "2026-09-11T13:13:24.824+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MCmYr3BR9Ds4NavIWzMcHA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402006",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P3",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "obras de Ejecución de actuaciones planificadas en el Plan Local de Prevención de Incendios Forestales(PLPIF) de Teulada, anualidad 2026.",
+     "expediente": "9650/2026",
+     "organo": "Junta de Gobierno del Ayuntamiento de Teulada",
+     "estado": "RES",
+     "importe": "14947.83",
+     "adjudicado": "17542.37",
+     "adjudicatario": "SELVICOLA DEL MAESTRAZGO SL",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Teulada",
+     "plazo": "",
+     "actualizado": "2026-09-11T12:48:22.224+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=i2sdr1YiPVg36J9Lctlsuw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402091",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Material de jardinería programa PMEF",
+     "expediente": "2096.28/2022",
+     "organo": "Junta de Gobierno del Ayuntamiento de Alguazas",
+     "estado": "RES",
+     "importe": "440.16",
+     "adjudicado": "509.82",
+     "adjudicatario": "SUMINISTROS AGRICOLAS CLEMENTE, S.L.",
+     "cpv": [],
+     "lugar": "Murcia",
+     "ciudad": "Alguazas (Murcia)",
+     "plazo": "",
+     "actualizado": "2026-09-11T11:41:47.555+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kZ%2Bazn9ddfn5Rey58Yagpg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402272",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Servicio eventual de mantenimiento de maquinaria de jardinería de la brigada de obras.",
+     "expediente": "CM 179/2026",
+     "organo": "Junta de Gobierno del Ayuntamiento de Biar",
+     "estado": "RES",
+     "importe": "64.32",
+     "adjudicado": "77.83",
+     "adjudicatario": "Talleres Cerdà e Hijos, SL",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Biar",
+     "plazo": "",
+     "actualizado": "2026-09-11T11:36:21.364+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XvhU%2BEeotJM2wEhQbcAqug%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402285",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Mantenimiento y Conservación de jardines y zonas verdes ubicados en el centro de control de cuenca sito en la Esclusa nº 42 del Canal de Castilla en Valladolid.",
+     "expediente": "M 2026-17/210",
+     "organo": "Confederación Hidrográfica del Duero, O.A.",
+     "estado": "RES",
+     "importe": "10468",
+     "adjudicado": "",
+     "adjudicatario": "",
+     "cpv": [
+      "71421000"
+     ],
+     "lugar": "Valladolid",
+     "ciudad": "Valladolid",
+     "plazo": "2026-09-04",
+     "actualizado": "2026-09-11T10:08:46.874+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iOqsWevfqYgIYE3ZiZ%2BxmQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402537",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P4",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Prestación de los servicios necesarios para la apertura,acondicionamiento y mantenimiento de nuevas áreas cortafuegos y zonas de discontinuidad perimetral en zonas de interfaz urbano-forestal, previstas en el Plan Local de Prevención de Incendios Forestales y en la cartografía LOTUP, en el ámbito del BARRANC DE LA PALLA –DEPOSIT",
+     "expediente": "330/2026",
+     "organo": "Alcaldía del Ayuntamiento de Tormos",
+     "estado": "RES",
+     "importe": "11449.07",
+     "adjudicado": "13853.37",
+     "adjudicatario": "FORESTACION Y REPOBLACION SA",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Tormos",
+     "plazo": "",
+     "actualizado": "2026-09-11T09:46:15.036+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cTP5NhCdKp68ebB%2FXTwy0A%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402606",
+     "familias": [
+      "forestal",
+      "teledeteccion"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Suministro de arena obra calle pinar",
+     "expediente": "2006/2026",
+     "organo": "Alcaldía del Ayuntamiento de Zurgena",
+     "estado": "RES",
+     "importe": "7950",
+     "adjudicado": "9619.5",
+     "adjudicatario": "OFIMOVIT S.L.",
+     "cpv": [],
+     "lugar": "Almería",
+     "ciudad": "Zurgena",
+     "plazo": "",
+     "actualizado": "2026-09-11T09:22:27.125+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LoLqapzAIv2ExvMJXBMHHQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402655",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P3",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "adquisición de material para el escuadrón de mantenimiento de aeronaves",
+     "expediente": "2026/EA22/00001559E",
+     "organo": "Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base)",
+     "estado": "RES",
+     "importe": "7757.67",
+     "adjudicado": "9386.78",
+     "adjudicatario": "BOIMA LOGISTICA S.L.",
+     "cpv": [
+      "24951100"
+     ],
+     "lugar": "Comunidad de Madrid",
+     "ciudad": "Torrejón de Ardoz",
+     "plazo": "",
+     "actualizado": "2026-09-11T08:18:37.685+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9P%2Bl5WXDROWLAncw3qdZkA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402770",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato de servicios para la redacción de memoria, dirección de obra y coordinación de seguridad y salud de las actuaciones previstas dentro de la subvención para la gestión y prevención de incendios forestales-GEPIF2025-",
+     "expediente": "545/2026",
+     "organo": "Alcaldía del Ayuntamiento de Llaurí",
+     "estado": "RES",
+     "importe": "1244",
+     "adjudicado": "1505.24",
+     "adjudicatario": "Fernando Franco Carbonell",
+     "cpv": [
+      "71000000",
+      "71200000"
+     ],
+     "lugar": "Valencia/València",
+     "ciudad": "Llaurí",
+     "plazo": "",
+     "actualizado": "2026-09-11T08:13:28.931+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qOJ58FzyZkqP%2Bo96UAV7cQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402773",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Alquiler de un equipo de detección de UAS (drones) para miembro de la Casa Real durante su primer año lectivo en la Universidad Carlos III de Madrid en Getafe del 1 de septiembre de 2026 al 31 de julio de 2027.",
+     "expediente": "X260294SSOFM",
+     "organo": "Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad",
+     "estado": "RES",
+     "importe": "14980",
+     "adjudicado": "18125.8",
+     "adjudicatario": "Jojacar Telecomunicaciones SL",
+     "cpv": [],
+     "lugar": "Madrid",
+     "ciudad": "Madrid",
+     "plazo": "",
+     "actualizado": "2026-09-10T14:30:28.688+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4IfATDlQUf0adbH3CysQuQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390156",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Servicio de mantenimiento de plagas en palmeras",
+     "expediente": "2689/2025",
+     "organo": "Junta de Gobierno Local del Ayuntamiento de Guadix",
+     "estado": "RES",
+     "importe": "1900",
+     "adjudicado": "2299",
+     "adjudicatario": "Savia Ingtecnova S.L",
+     "cpv": [
+      "90922000"
+     ],
+     "lugar": "Granada",
+     "ciudad": "Guadix",
+     "plazo": "",
+     "actualizado": "2026-09-10T14:04:58.313+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=PJnPwwh%2FAy%2BIzo3LHNPGcQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390201",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P3",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contratación de póliza de seguros para el dron adquirido por la policía local.",
+     "expediente": "5387/2026",
+     "organo": "Alcaldía del Ayuntamiento de Torrelodones",
+     "estado": "RES",
+     "importe": "274.83",
+     "adjudicado": "274.83",
+     "adjudicatario": "SEGUROS CASER",
+     "cpv": [],
+     "lugar": "Madrid",
+     "ciudad": "Torrelodones",
+     "plazo": "",
+     "actualizado": "2026-09-10T13:46:38.706+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yIVxA9DwfbD%2B3JAijKO%2Bkg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390259",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Servicio de revisión parcial del Plan Local de Prevención de Incendios Forestales.",
+     "expediente": "CM 172/2026",
+     "organo": "Junta de Gobierno del Ayuntamiento de Biar",
+     "estado": "RES",
+     "importe": "3399",
+     "adjudicado": "4112.79",
+     "adjudicatario": "Belda Ingenieros SL",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Biar",
+     "plazo": "",
+     "actualizado": "2026-09-10T13:25:51.407+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8syMwsA3%2FhqdkQsA7ROvsg%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390364",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "CM Ser 52/2026 Actuaciones de prevención de incendios y gestión forestal planificada durante el año 2026 Ajuntament d'Alberic",
+     "expediente": "2970206M",
+     "organo": "Alcaldía del Ayuntamiento de Alberic",
+     "estado": "RES",
+     "importe": "5000",
+     "adjudicado": "5803.16",
+     "adjudicatario": "SERAMFOR S.L.",
+     "cpv": [],
+     "lugar": "Valencia/València",
+     "ciudad": "Alberic",
+     "plazo": "",
+     "actualizado": "2026-09-10T13:19:28.421+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UHRJcxtvpa0IYE3ZiZ%2BxmQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390392",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Suministro de hormigón para mantenimiento y construcción de vías públicas y zonas verdes Pozo de los Frailes y La Isleta del Moro.",
+     "expediente": "10582/2026",
+     "organo": "Alcaldía del Ayuntamiento de Níjar",
+     "estado": "RES",
+     "importe": "12124",
+     "adjudicado": "14670.04",
+     "adjudicatario": "INDALICA HORMIGONES S.L.",
+     "cpv": [
+      "44114000"
+     ],
+     "lugar": "Almería",
+     "ciudad": "Níjar",
+     "plazo": "",
+     "actualizado": "2026-09-10T13:16:34.276+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l5OsUDSqf%2BlrSd8H4b2soA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390402",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P3",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "control de plagas trathisa julio 2026",
+     "expediente": "130/26/ARC",
+     "organo": "Presidencia de la Diputación Provincial de Valencia",
+     "estado": "RES",
+     "importe": "117.41",
+     "adjudicado": "142.07",
+     "adjudicatario": "TRATHISA, S.L.",
+     "cpv": [
+      "90922000"
+     ],
+     "lugar": "",
+     "ciudad": "Valencia",
+     "plazo": "",
+     "actualizado": "2026-09-10T12:40:08.287+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QSkwVB1oT%2F3N3k3tjedSGw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390531",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "PG-Material no vegetal para prácticas alumnado jardinería TALENT JOVE FOTAV/2025/11/46",
+     "expediente": "2026/PGCM/205",
+     "organo": "Alcaldía del Ayuntamiento de Aldaia",
+     "estado": "RES",
+     "importe": "624",
+     "adjudicado": "755.04",
+     "adjudicatario": "ABONOS ORGANICOS DESCO SL",
+     "cpv": [],
+     "lugar": "Valencia/València",
+     "ciudad": "Aldaia",
+     "plazo": "",
+     "actualizado": "2026-09-10T12:37:29.782+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=osxCnK7o6xGP%2Bo96UAV7cQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390542",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contratación vuelo dron",
+     "expediente": "1271/2026",
+     "organo": "Presidencia de la Autoridad Portuaria de Ferrol San Cibrao",
+     "estado": "RES",
+     "importe": "1700",
+     "adjudicado": "2057",
+     "adjudicatario": "Miraveo Assets S.L.",
+     "cpv": [],
+     "lugar": "A Coruña",
+     "ciudad": "Ferrol",
+     "plazo": "",
+     "actualizado": "2026-09-10T12:05:43.645+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4Ac6sJeGx1IIYE3ZiZ%2BxmQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390620",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Adquisición de una trituradora de poda",
+     "expediente": "285/2026",
+     "organo": "Alcaldía del Ayuntamiento de Campo de Mirra",
+     "estado": "RES",
+     "importe": "2065.7",
+     "adjudicado": "2499.5",
+     "adjudicatario": "FERRI VILLENA, S.L.",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Campo de Mirra",
+     "plazo": "",
+     "actualizado": "2026-09-10T11:06:23.450+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=TyIQxj4IWgQ7u6%2B%2FR7DUoA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390761",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Adecuación, mejora y equipamiento del recinto de control fitosanitario en el Puesto de Control Fronterizo PCF",
+     "expediente": "29/2026",
+     "organo": "Autoridad Portuaria de Alicante",
+     "estado": "RES",
+     "importe": "13512.3",
+     "adjudicado": "15669.5",
+     "adjudicatario": "IMGALMO 3, S.L.",
+     "cpv": [],
+     "lugar": "Alicante/Alacant",
+     "ciudad": "Alicante",
+     "plazo": "",
+     "actualizado": "2026-09-10T11:05:59.168+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=gtkmZ8hZJQzgL1BHd3qjQA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390762",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P1",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Detección de Fusarium en palmeras de la Constitución",
+     "expediente": "MEN-2026000645",
+     "organo": "Alcaldía del Ayuntamiento de Alhama de Murcia",
+     "estado": "RES",
+     "importe": "468",
+     "adjudicado": "566.28",
+     "adjudicatario": "CREATIVE GENETICS, S.L.",
+     "cpv": [
+      "71421000",
+      "77311000"
+     ],
+     "lugar": "",
+     "ciudad": "Alhama De Murcia",
+     "plazo": "",
+     "actualizado": "2026-09-10T09:55:54.333+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=e5X%2BMRB%2FSUm2gkLQ8TeYKA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390999",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Repuestos para campañas de magnetometría a bordo de drones",
+     "expediente": "582026054099",
+     "organo": "Secretaría General del INTA",
+     "estado": "RES",
+     "importe": "22500",
+     "adjudicado": "21770",
+     "adjudicatario": "SPH Engineering, SIA",
+     "cpv": [
+      "34730000"
+     ],
+     "lugar": "Madrid",
+     "ciudad": "Torrejón de Ardoz",
+     "plazo": "2026-09-07",
+     "actualizado": "2026-09-10T09:31:29.270+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=rRxa8jAB%2BtTN3k3tjedSGw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20391063",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P4",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato menor de servicios de poda y limpieza de 350 palmeras datileras, subvención Ayuntamiento de Abanilla.",
+     "expediente": "CMSE 97/2026",
+     "organo": "Junta del Ayuntamiento de Abanilla",
+     "estado": "RES",
+     "importe": "3500",
+     "adjudicado": "3850",
+     "adjudicatario": "MOISES ESCLAPEZ MORELL",
+     "cpv": [],
+     "lugar": "Murcia",
+     "ciudad": "Abanilla",
+     "plazo": "",
+     "actualizado": "2026-09-10T08:22:41.982+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=d8lYaipp5tY36J9Lctlsuw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20391289",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Trabajos de poda en nueva O.E. Almadén",
+     "expediente": "2026/039301",
+     "organo": "Delegación Provincial de la Consejería de Economía, Empresas y Empleo en Ciudad Real",
+     "estado": "RES",
+     "importe": "600",
+     "adjudicado": "605",
+     "adjudicatario": "Infante Moyano, Santiago",
+     "cpv": [
+      "50000000"
+     ],
+     "lugar": "CiudadReal",
+     "ciudad": "Ciudad Real",
+     "plazo": "2026-11-09",
+     "actualizado": "2026-09-10T08:08:47.972+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=SzCo3LY2SrQeC9GJQOEBkQ%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20391312",
+     "familias": [
+      "urbano_agricola"
+     ],
+     "prioridad": "P3",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Asistencia técnica para la ejecución del fondo estratégico municipal de prevención de incendios y gestión forestal durante el año 2026.",
+     "expediente": "368/2026",
+     "organo": "Alcaldía del Ayuntamiento de Tales",
+     "estado": "RES",
+     "importe": "1094.25",
+     "adjudicado": "1324.04",
+     "adjudicatario": "MARC OSUNA SANFELIU",
+     "cpv": [],
+     "lugar": "Castellón/Castelló",
+     "ciudad": "Tales",
+     "plazo": "2026-10-23",
+     "actualizado": "2026-09-07T08:45:27.231+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=H0PE%2B7rQUkh4zIRvjBVCSw%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20378822",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Reforestación y silvicultura distintos puntos ACMT Cenad San Gregorio",
+     "expediente": "2026/ETSAE0327/00005528E",
+     "organo": "Jefatura de Intendencia de Asuntos Económicos Este",
+     "estado": "RES",
+     "importe": "14999.99",
+     "adjudicado": "14520.95",
+     "adjudicatario": "ARAELECTRIC S.A.",
+     "cpv": [
+      "77231600"
+     ],
+     "lugar": "Zaragoza",
+     "ciudad": "Zaragoza",
+     "plazo": "2026-10-30",
+     "actualizado": "2026-09-04T11:30:54.533+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4JgaymNCgbFt5r0ngvMetA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20371857",
+     "familias": [
+      "forestal"
+     ],
+     "prioridad": "P3",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato menor servicio de redacción de proyecto, dirección de obra y EBSS obra de reconstrucción de cubierta en el edificio situado en Avenida Marqués de Dos Aguas Nº4 en el municipio de Dos Aguas (Obra financiada por el Gobierno de España - TMD/101/2025)",
+     "expediente": "2529365H",
+     "organo": "Alcaldía del Ayuntamiento de Dos Aguas",
+     "estado": "RES",
+     "importe": "3500",
+     "adjudicado": "4235",
+     "adjudicatario": "EVA ISABEL DOMÍNGUEZ ATIENZA",
+     "cpv": [
+      "71000000",
+      "71500000"
+     ],
+     "lugar": "Valencia/València",
+     "ciudad": "Dos Aguas",
+     "plazo": "2025-10-24",
+     "actualizado": "2026-09-04T11:30:32.467+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mtbBKENsMWE2wEhQbcAqug%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20371858",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    },
+    {
+     "titulo": "Contrato menor servicio de redacción de memoria técnica valorada para obras de reconstrucción de la cubierta en el edificio situado en Avenida Marqués de Dos Aguas Nº4 en el municipio de Dos Aguas (Obra financiada por el Gobierno de España - TMD/101/2025)",
+     "expediente": "2202739K",
+     "organo": "Alcaldía del Ayuntamiento de Dos Aguas",
+     "estado": "RES",
+     "importe": "1100",
+     "adjudicado": "1331",
+     "adjudicatario": "CLARA GONZÁLEZ ESTAÚN",
+     "cpv": [
+      "71000000",
+      "71500000"
+     ],
+     "lugar": "Valencia/València",
+     "ciudad": "Dos Aguas",
+     "plazo": "2025-04-23",
+     "actualizado": "2026-09-04T11:09:51.969+02:00",
+     "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=d7Vh4m%2BSZxkaF6cS8TCh%2FA%3D%3D",
+     "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20371862",
+     "familias": [
+      "nucleo"
+     ],
+     "prioridad": "P2",
+     "fuente": "menores"
+    }
+   ]
+  }
+ ],
+ "resultados": [
+  {
+   "titulo": "Servicio de vigilancia y control de plagas en el municipio de Pego.",
+   "expediente": "456/2026",
+   "organo": "Alcaldía del Ayuntamiento de Pego",
+   "estado": "RES",
+   "importe": "73546",
+   "adjudicado": "17424",
+   "adjudicatario": "SERVIPLAG-SAI S.L",
+   "cpv": [
+    "90922000",
+    "90923000",
+    "90924000"
+   ],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Pego",
+   "plazo": "2026-06-12",
+   "actualizado": "2026-09-08T10:44:51.577+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8xLnuGjZc3XpxJFXpLZ%2B2A%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19773005",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P1",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio que tiene por objeto las actuaciones de control de plagas en las dependencias municipales. Se pretende aglutinar todas estas acciones dentro de un mismo contrato que permita tener una estrategia de conjunto y a largo plazo, optimizando los recursos municipales.",
+   "expediente": "5204/2026",
+   "organo": "Junta de Gobierno del Ayuntamiento Sant Joan D Alacant",
+   "estado": "EV",
+   "importe": "12640",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "90922000"
+   ],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Sant Joan D'Alacant",
+   "plazo": "2026-07-23",
+   "actualizado": "2026-09-08T11:13:29.800+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EHRRs19lZqlLAIVZdUs8KA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20041018",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P1",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio de asistencia técnica obra incremento almacenamiento nuevo depósito Monte Orgegia por Aguas Municipalizadas de Alicante, EM",
+   "expediente": "SE009/2026",
+   "organo": "Comité de Contratación de Aguas Municipalizadas de Alicante, Empresa Mixta",
+   "estado": "EV",
+   "importe": "63088.29",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "71311100"
+   ],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Alicante",
+   "plazo": "2026-06-10",
+   "actualizado": "2026-09-08T13:47:35.269+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=i3u779ZB5LQl5NjlNci%2BtA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19753525",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P1",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio de funcionamiento y mantenimiento del sistema de saneamiento y depuración de aguas residuales de Xixona (Alicante).",
+   "expediente": "CMAYOR/2025/EPSAR/0105",
+   "organo": "Vicepresidencia del Consejo de Administración de la Entidad Pública de Saneamiento de Aguas Residuales de la Comunidad Valenciana",
+   "estado": "ADJ",
+   "importe": "2493171.48",
+   "adjudicado": "2354643.66",
+   "adjudicatario": "EXMAN EXPLOTACIÓN Y MANTENIMIENTO S.L.",
+   "cpv": [
+    "42996000",
+    "90481000"
+   ],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Valencia",
+   "plazo": "2025-10-10",
+   "actualizado": "2026-09-08T14:37:11.821+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2BGMP70FsM6cwYTJJ03sHog%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/17778015",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P1",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Adecuación, mejora y equipamiento del recinto de control fitosanitario en el Puesto de Control Fronterizo PCF",
+   "expediente": "29/2026",
+   "organo": "Autoridad Portuaria de Alicante",
+   "estado": "RES",
+   "importe": "13512.3",
+   "adjudicado": "15669.5",
+   "adjudicatario": "IMGALMO 3, S.L.",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Alicante",
+   "plazo": "",
+   "actualizado": "2026-09-10T11:05:59.168+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=gtkmZ8hZJQzgL1BHd3qjQA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390762",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Adquisición de una trituradora de poda",
+   "expediente": "285/2026",
+   "organo": "Alcaldía del Ayuntamiento de Campo de Mirra",
+   "estado": "RES",
+   "importe": "2065.7",
+   "adjudicado": "2499.5",
+   "adjudicatario": "FERRI VILLENA, S.L.",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Campo de Mirra",
+   "plazo": "",
+   "actualizado": "2026-09-10T11:06:23.450+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=TyIQxj4IWgQ7u6%2B%2FR7DUoA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390761",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Servicio de revisión parcial del Plan Local de Prevención de Incendios Forestales.",
+   "expediente": "CM 172/2026",
+   "organo": "Junta de Gobierno del Ayuntamiento de Biar",
+   "estado": "RES",
+   "importe": "3399",
+   "adjudicado": "4112.79",
+   "adjudicatario": "Belda Ingenieros SL",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Biar",
+   "plazo": "",
+   "actualizado": "2026-09-10T13:25:51.407+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8syMwsA3%2FhqdkQsA7ROvsg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390364",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Prestación de los servicios necesarios para la apertura,acondicionamiento y mantenimiento de nuevas áreas cortafuegos y zonas de discontinuidad perimetral en zonas de interfaz urbano-forestal, previstas en el Plan Local de Prevención de Incendios Forestales y en la cartografía LOTUP, en el ámbito del BARRANC DE LA PALLA –DEPOSIT",
+   "expediente": "330/2026",
+   "organo": "Alcaldía del Ayuntamiento de Tormos",
+   "estado": "RES",
+   "importe": "11449.07",
+   "adjudicado": "13853.37",
+   "adjudicatario": "FORESTACION Y REPOBLACION SA",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Tormos",
+   "plazo": "",
+   "actualizado": "2026-09-11T09:46:15.036+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cTP5NhCdKp68ebB%2FXTwy0A%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402606",
+   "familias": [
+    "forestal",
+    "teledeteccion"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Servicio eventual de mantenimiento de maquinaria de jardinería de la brigada de obras.",
+   "expediente": "CM 179/2026",
+   "organo": "Junta de Gobierno del Ayuntamiento de Biar",
+   "estado": "RES",
+   "importe": "64.32",
+   "adjudicado": "77.83",
+   "adjudicatario": "Talleres Cerdà e Hijos, SL",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Biar",
+   "plazo": "",
+   "actualizado": "2026-09-11T11:36:21.364+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XvhU%2BEeotJM2wEhQbcAqug%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402285",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "obras de Ejecución de actuaciones planificadas en el Plan Local de Prevención de Incendios Forestales(PLPIF) de Teulada, anualidad 2026.",
+   "expediente": "9650/2026",
+   "organo": "Junta de Gobierno del Ayuntamiento de Teulada",
+   "estado": "RES",
+   "importe": "14947.83",
+   "adjudicado": "17542.37",
+   "adjudicatario": "SELVICOLA DEL MAESTRAZGO SL",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Teulada",
+   "plazo": "",
+   "actualizado": "2026-09-11T12:48:22.224+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=i2sdr1YiPVg36J9Lctlsuw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402091",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Adquisición de material de jardinería para los parques y jardines municipales.",
+   "expediente": "CM 193/2026",
+   "organo": "Junta de Gobierno del Ayuntamiento de Biar",
+   "estado": "RES",
+   "importe": "30.72",
+   "adjudicado": "37.17",
+   "adjudicatario": "Bodega Cooperativa Agrícola Divina Aurora, CV",
+   "cpv": [],
+   "lugar": "Alicante/Alacant",
+   "ciudad": "Biar",
+   "plazo": "",
+   "actualizado": "2026-09-11T13:58:31.101+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CUtGwjpSq1LCfVQHDepjGQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401856",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Obra demolición caseta de jardinería_RPDFI Y CD SANTA FAZ / Obra demolición caseta de jardinería_RPDFI Y CD SANTA FAZ",
+   "expediente": "CMENOR/2026/30N09/0226-2026/13616",
+   "organo": "Conselleria de Servicios Sociales, Familia e Infancia",
+   "estado": "RES",
+   "importe": "15410.16",
+   "adjudicado": "18646.29",
+   "adjudicatario": "CONSTRUTEC S.COOP.V.LTDA",
+   "cpv": [
+    "45000000"
+   ],
+   "lugar": "Alicante",
+   "ciudad": "Valencia",
+   "plazo": "",
+   "actualizado": "2026-09-12T02:08:14.337+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Trkx%2FeyNIjg7u6%2B%2FR7DUoA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401403",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "CONmenor servicio triturado restos de poda Parques y Jardines. Subvención Diputación",
+   "expediente": "1854720A",
+   "organo": "Alcaldia del Ayuntamiento de Pinoso",
+   "estado": "RES",
+   "importe": "1530",
+   "adjudicado": "1851.3",
+   "adjudicatario": "TRABAJOS AGRICOLAS CALPRIC SL",
+   "cpv": [
+    "90514000"
+   ],
+   "lugar": "ALACANT",
+   "ciudad": "Pinoso",
+   "plazo": "2026-08-31",
+   "actualizado": "2026-09-13T00:18:38.489+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hlGatQHg2JXua%2Fi14w%2FPLA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401297",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P1",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato menor servicio de redacción de memoria técnica valorada para obras de reconstrucción de la cubierta en el edificio situado en Avenida Marqués de Dos Aguas Nº4 en el municipio de Dos Aguas (Obra financiada por el Gobierno de España - TMD/101/2025)",
+   "expediente": "2202739K",
+   "organo": "Alcaldía del Ayuntamiento de Dos Aguas",
+   "estado": "RES",
+   "importe": "1100",
+   "adjudicado": "1331",
+   "adjudicatario": "CLARA GONZÁLEZ ESTAÚN",
+   "cpv": [
+    "71000000",
+    "71500000"
+   ],
+   "lugar": "Valencia/València",
+   "ciudad": "Dos Aguas",
+   "plazo": "2025-04-23",
+   "actualizado": "2026-09-04T11:09:51.969+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=d7Vh4m%2BSZxkaF6cS8TCh%2FA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20371862",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato menor servicio de redacción de proyecto, dirección de obra y EBSS obra de reconstrucción de cubierta en el edificio situado en Avenida Marqués de Dos Aguas Nº4 en el municipio de Dos Aguas (Obra financiada por el Gobierno de España - TMD/101/2025)",
+   "expediente": "2529365H",
+   "organo": "Alcaldía del Ayuntamiento de Dos Aguas",
+   "estado": "RES",
+   "importe": "3500",
+   "adjudicado": "4235",
+   "adjudicatario": "EVA ISABEL DOMÍNGUEZ ATIENZA",
+   "cpv": [
+    "71000000",
+    "71500000"
+   ],
+   "lugar": "Valencia/València",
+   "ciudad": "Dos Aguas",
+   "plazo": "2025-10-24",
+   "actualizado": "2026-09-04T11:30:32.467+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mtbBKENsMWE2wEhQbcAqug%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20371858",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Asistencia técnica para la ejecución del fondo estratégico municipal de prevención de incendios y gestión forestal durante el año 2026.",
+   "expediente": "368/2026",
+   "organo": "Alcaldía del Ayuntamiento de Tales",
+   "estado": "RES",
+   "importe": "1094.25",
+   "adjudicado": "1324.04",
+   "adjudicatario": "MARC OSUNA SANFELIU",
+   "cpv": [],
+   "lugar": "Castellón/Castelló",
+   "ciudad": "Tales",
+   "plazo": "2026-10-23",
+   "actualizado": "2026-09-07T08:45:27.231+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=H0PE%2B7rQUkh4zIRvjBVCSw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20378822",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contratación del servicio de alquiler de grúas con operario especializado de acuerdo con las necesidades de Ciudad de las Artes y de las Ciencias, SAU",
+   "expediente": "0099-25",
+   "organo": "Dirección General de la Ciudad de las Artes y de las Ciencias S.A.",
+   "estado": "RES",
+   "importe": "10000",
+   "adjudicado": "12100",
+   "adjudicatario": "Grúas Alapont s.a.",
+   "cpv": [
+    "45500000",
+    "60000000"
+   ],
+   "lugar": "Valencia/València",
+   "ciudad": "Valencia",
+   "plazo": "2025-10-28",
+   "actualizado": "2026-09-07T08:47:30.703+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=upYoqKB%2BWXXXOjazN1Dw9Q%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18126627",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Control de la Calidad del Agua de Consumo, de las Aguas Residuales y del Agua de la Piscina Pública \"Santiago Vidal\". Número de expediente 0003-26PSE",
+   "expediente": "0003-26PSE",
+   "organo": "Consejo de Administración de Servicios Comunitarios de Molina S.A. (SERCOMOSA)",
+   "estado": "RES",
+   "importe": "134024.61",
+   "adjudicado": "110755.8",
+   "adjudicatario": "UTE 2026 EUROFINS SERCOMOSA",
+   "cpv": [
+    "71900000"
+   ],
+   "lugar": "Murcia",
+   "ciudad": "Molina del Segura (Murcia)",
+   "plazo": "2026-05-25",
+   "actualizado": "2026-09-07T09:00:00.000+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hNLXrLoc7XWTylGzYmBF9Q%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19499353",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio de peritación médica para Unión de Mutuas MCSS nº 267, en el ámbito de sus delegaciones de las provincias de Cataluña e Islas Baleares- Procedimiento simplificado.",
+   "expediente": "56/2026",
+   "organo": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+   "estado": "RES",
+   "importe": "22706",
+   "adjudicado": "26264.26",
+   "adjudicatario": "Aurelio Berruezo Blanco",
+   "cpv": [
+    "85100000"
+   ],
+   "lugar": "España",
+   "ciudad": "Castellón",
+   "plazo": "2026-07-22",
+   "actualizado": "2026-09-07T10:08:22.941+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KDmv3XeyrLcwYTJJ03sHog%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19979482",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministro de gases medicinales y alquiler de botellas para las distintas delegaciones, así como el servicio de mantenimiento preventivo y correctivo de la instalación de gases del Instituto de Traumatología de Unión de Mutuas, MCSS, nº 267 en Castellón de la Plana.",
+   "expediente": "70/2026",
+   "organo": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+   "estado": "PUB",
+   "importe": "155423.9",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "24111500"
+   ],
+   "lugar": "España",
+   "ciudad": "Castellón",
+   "plazo": "2026-09-07",
+   "actualizado": "2026-09-07T10:30:52.039+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=SGkuQgpG6CB70UvEyYJSGw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20317388",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Concesion demanial de uso privativo de dominio público para la gestión del quiosco ubicado en el parque exterior a la Urbanización \"Condado de Alhama\" de Alhama de Murcia, así como el Quiosco ubicado en el jardín El Palmeral.",
+   "expediente": "2025000032",
+   "organo": "Alcaldía del Ayuntamiento de Alhama de Murcia",
+   "estado": "ADJ",
+   "importe": "940.4",
+   "adjudicado": "1240",
+   "adjudicatario": "ALBERTO JIMENEZ JIMENEZ",
+   "cpv": [
+    "55410000"
+   ],
+   "lugar": "Murcia",
+   "ciudad": "Alhama De Murcia",
+   "plazo": "2026-07-22",
+   "actualizado": "2026-09-07T10:59:26.366+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0biBgxtfrZ2AAM7L03kM8A%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19910656",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Tratamientos selvícolas en masas decaídas, dentro del MUP nº 44, \"Dehesa de Navalengua\", perteneciente al Ayuntamiento de Peñascosa.",
+   "expediente": "2026/033203",
+   "organo": "Dirección General de Medio Natural y Biodiversidad de la Junta de Comunidades de Castilla-La Mancha",
+   "estado": "EV",
+   "importe": "127306.6",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "45111220",
+    "45262640"
+   ],
+   "lugar": "Albacete",
+   "ciudad": "Toledo",
+   "plazo": "2026-06-01",
+   "actualizado": "2026-09-07T12:52:00.424+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l5ThO4hErMrXOjazN1Dw9Q%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19664071",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Contratación del servicio de grúas con conductor para el Circuito del motor y promoción deportiva S.A",
+   "expediente": "CMAYOR/2026/CMPD0/0005",
+   "organo": "Dirección General del Circuito del Motor y Promoción Deportiva S.A.",
+   "estado": "ADJ",
+   "importe": "348947.71",
+   "adjudicado": "76.39",
+   "adjudicatario": "ENERGIA Y TRANSPORTE LEVANTE 2022 SLU",
+   "cpv": [
+    "42414100",
+    "45510000",
+    "50118110",
+    "60000000"
+   ],
+   "lugar": "Valencia/València",
+   "ciudad": "Cheste - Valencia",
+   "plazo": "2026-07-22",
+   "actualizado": "2026-09-07T13:09:27.929+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Tzt2PEj6VZWS81gZFETWmA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19900603",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Obras de acondicionado de parcela para la ejecución de aparcamiento disuasorio en Barrio San Roque, en Molina de Segura. Incorporando Criterios Sociales.",
+   "expediente": "OBR-ABR_SMPL/2026000256",
+   "organo": "Junta de Gobierno del Ayuntamiento de Molina de Segura",
+   "estado": "EV",
+   "importe": "123854.59",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "45200000"
+   ],
+   "lugar": "",
+   "ciudad": "Molina de Segura (Murcia)",
+   "plazo": "2026-09-03",
+   "actualizado": "2026-09-07T13:19:27.429+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LemAyY6T1i47u6%2B%2FR7DUoA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20297385",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministro de producto fitosanitario (piretrinas + feromonas) para el control de Delottococcus aberiae en los cítricos de la Comunitat Valenciana, campaña 2027.",
+   "expediente": "CMAYOR/2026/26Y03/0044",
+   "organo": "Conselleria de Agricultura, Agua, Ganadería y Pesca",
+   "estado": "EV",
+   "importe": "2177280",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "24452000"
+   ],
+   "lugar": "Comunitat Valenciana",
+   "ciudad": "Valencia",
+   "plazo": "2026-09-04",
+   "actualizado": "2026-09-07T13:32:31.869+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=O1yrKeQFSyoQyBAnWzHfCg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19900699",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Obras del proyecto de renovación de parques municipales de Burjassot. Mejora y ampliación de zonas verdes. Pla Obert d'Inversions 2024-2027 de la Diputació De València (POI2024-2027).",
+   "expediente": "2026/9591J",
+   "organo": "Junta de Gobierno del Ayuntamiento de Burjassot",
+   "estado": "ADJ",
+   "importe": "777869.68",
+   "adjudicado": "279582.04",
+   "adjudicatario": "MOBIPARK, S.L.",
+   "cpv": [
+    "37535200",
+    "43325000",
+    "45112000",
+    "45236210"
+   ],
+   "lugar": "Valencia/València",
+   "ciudad": "Burjassot (Valencia)",
+   "plazo": "2026-08-04",
+   "actualizado": "2026-09-07T13:39:53.951+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=jLPz7YdbMmLua%2Fi14w%2FPLA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20060578",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministro de material fungible de esterilización y trazabilidad para Unión de Mutuas, MCSS N.º 267.",
+   "expediente": "68/2026",
+   "organo": "Dirección Gerencia de Unión de Mutuas, Mutua Colaboradora con la Seguridad Social Nº 267",
+   "estado": "PUB",
+   "importe": "72783.34",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "33140000"
+   ],
+   "lugar": "España",
+   "ciudad": "Castellón",
+   "plazo": "2026-09-10",
+   "actualizado": "2026-09-08T09:03:36.664+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3p0Xj6TxeCdVYjgxA4nMUw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20337900",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Reposición de pavimento asfáltico en varias calles de Espinardo, El Palmar, Zarandona, Beniaján y Guadalupe (Murcia), mediante cinco (5) lotes",
+   "expediente": "2025_0186",
+   "organo": "Junta de Gobierno del Ayuntamiento de Murcia",
+   "estado": "ADJ",
+   "importe": "700605.77",
+   "adjudicado": "44143.21",
+   "adjudicatario": "CHM OBRAS E INFRAESTRUCTURAS SA",
+   "cpv": [
+    "45233220",
+    "45233251"
+   ],
+   "lugar": "Murcia",
+   "ciudad": "Murcia",
+   "plazo": "2026-06-01",
+   "actualizado": "2026-09-08T09:54:50.487+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=RR%2B2xo8ZTNI7u6%2B%2FR7DUoA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19656261",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Obras de nueva regulación y transporte de aguas superficiales del río Mijares en la zona regable del sector Pinella 3, Vila-real (Castellón)",
+   "expediente": "CMAYOR/2026/26Y05/0034",
+   "organo": "Conselleria de Agricultura, Agua, Ganadería y Pesca",
+   "estado": "EV",
+   "importe": "4757440.02",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "09331200",
+    "45231100",
+    "45232152",
+    "45315400",
+    "45315600"
+   ],
+   "lugar": "Comunitat Valenciana",
+   "ciudad": "Valencia",
+   "plazo": "2026-07-27",
+   "actualizado": "2026-09-08T12:44:18.503+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CcBBOnBMjNDLIx6q1oPaMg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19957421",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio de Procuraduría para EMUASA",
+   "expediente": "018-SER-2026",
+   "organo": "Gerencia de la Empresa Municipal de Aguas y Saneamiento de Murcia S.A.",
+   "estado": "ADJ",
+   "importe": "44000",
+   "adjudicado": "53240",
+   "adjudicatario": "SEVILLA FLORES PROCURADORES REGIÓN DE MURCIA, S.L.P.",
+   "cpv": [
+    "79112000"
+   ],
+   "lugar": "Murcia",
+   "ciudad": "Murcia",
+   "plazo": "2026-07-16",
+   "actualizado": "2026-09-08T12:54:09.497+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=hLak8JCi2we5HQrHoP3G5A%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19910333",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio de Formación en Prevención de Riesgos Laborales a impartir al personal de EMUASA",
+   "expediente": "027-SER-2023",
+   "organo": "Gerencia de la Empresa Municipal de Aguas y Saneamiento de Murcia S.A.",
+   "estado": "RES",
+   "importe": "32400",
+   "adjudicado": "32400",
+   "adjudicatario": "Cualtis S.L.U.",
+   "cpv": [
+    "80500000",
+    "80550000",
+    "80561000",
+    "80562000"
+   ],
+   "lugar": "Murcia",
+   "ciudad": "Murcia",
+   "plazo": "2023-07-20",
+   "actualizado": "2026-09-08T13:20:55.772+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZFZHN%2FVjeAuopEMYCmrbmw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/13010735",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Contrato menor de servicios de poda y limpieza de 350 palmeras datileras, subvención Ayuntamiento de Abanilla.",
+   "expediente": "CMSE 97/2026",
+   "organo": "Junta del Ayuntamiento de Abanilla",
+   "estado": "RES",
+   "importe": "3500",
+   "adjudicado": "3850",
+   "adjudicatario": "MOISES ESCLAPEZ MORELL",
+   "cpv": [],
+   "lugar": "Murcia",
+   "ciudad": "Abanilla",
+   "plazo": "",
+   "actualizado": "2026-09-10T08:22:41.982+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=d8lYaipp5tY36J9Lctlsuw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20391289",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Detección de Fusarium en palmeras de la Constitución",
+   "expediente": "MEN-2026000645",
+   "organo": "Alcaldía del Ayuntamiento de Alhama de Murcia",
+   "estado": "RES",
+   "importe": "468",
+   "adjudicado": "566.28",
+   "adjudicatario": "CREATIVE GENETICS, S.L.",
+   "cpv": [
+    "71421000",
+    "77311000"
+   ],
+   "lugar": "",
+   "ciudad": "Alhama De Murcia",
+   "plazo": "",
+   "actualizado": "2026-09-10T09:55:54.333+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=e5X%2BMRB%2FSUm2gkLQ8TeYKA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390999",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "PG-Material no vegetal para prácticas alumnado jardinería TALENT JOVE FOTAV/2025/11/46",
+   "expediente": "2026/PGCM/205",
+   "organo": "Alcaldía del Ayuntamiento de Aldaia",
+   "estado": "RES",
+   "importe": "624",
+   "adjudicado": "755.04",
+   "adjudicatario": "ABONOS ORGANICOS DESCO SL",
+   "cpv": [],
+   "lugar": "Valencia/València",
+   "ciudad": "Aldaia",
+   "plazo": "",
+   "actualizado": "2026-09-10T12:37:29.782+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=osxCnK7o6xGP%2Bo96UAV7cQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390542",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "control de plagas trathisa julio 2026",
+   "expediente": "130/26/ARC",
+   "organo": "Presidencia de la Diputación Provincial de Valencia",
+   "estado": "RES",
+   "importe": "117.41",
+   "adjudicado": "142.07",
+   "adjudicatario": "TRATHISA, S.L.",
+   "cpv": [
+    "90922000"
+   ],
+   "lugar": "",
+   "ciudad": "Valencia",
+   "plazo": "",
+   "actualizado": "2026-09-10T12:40:08.287+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QSkwVB1oT%2F3N3k3tjedSGw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390531",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "CM Ser 52/2026 Actuaciones de prevención de incendios y gestión forestal planificada durante el año 2026 Ajuntament d'Alberic",
+   "expediente": "2970206M",
+   "organo": "Alcaldía del Ayuntamiento de Alberic",
+   "estado": "RES",
+   "importe": "5000",
+   "adjudicado": "5803.16",
+   "adjudicatario": "SERAMFOR S.L.",
+   "cpv": [],
+   "lugar": "Valencia/València",
+   "ciudad": "Alberic",
+   "plazo": "",
+   "actualizado": "2026-09-10T13:19:28.421+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UHRJcxtvpa0IYE3ZiZ%2BxmQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390392",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato de servicios para la redacción de memoria, dirección de obra y coordinación de seguridad y salud de las actuaciones previstas dentro de la subvención para la gestión y prevención de incendios forestales-GEPIF2025-",
+   "expediente": "545/2026",
+   "organo": "Alcaldía del Ayuntamiento de Llaurí",
+   "estado": "RES",
+   "importe": "1244",
+   "adjudicado": "1505.24",
+   "adjudicatario": "Fernando Franco Carbonell",
+   "cpv": [
+    "71000000",
+    "71200000"
+   ],
+   "lugar": "Valencia/València",
+   "ciudad": "Llaurí",
+   "plazo": "",
+   "actualizado": "2026-09-11T08:13:28.931+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qOJ58FzyZkqP%2Bo96UAV7cQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402773",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Material de jardinería programa PMEF",
+   "expediente": "2096.28/2022",
+   "organo": "Junta de Gobierno del Ayuntamiento de Alguazas",
+   "estado": "RES",
+   "importe": "440.16",
+   "adjudicado": "509.82",
+   "adjudicatario": "SUMINISTROS AGRICOLAS CLEMENTE, S.L.",
+   "cpv": [],
+   "lugar": "Murcia",
+   "ciudad": "Alguazas (Murcia)",
+   "plazo": "",
+   "actualizado": "2026-09-11T11:41:47.555+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kZ%2Bazn9ddfn5Rey58Yagpg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402272",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Servicios de Pequeñas reparaciones de fontanería, carpintería, albañilería, cerrajería, electricidad, consumibles y/o sustitución bombillas, jardinería de interior y exterior",
+   "expediente": "CTRO/30/00/2026/0044",
+   "organo": "Director Gerente de FREMAP",
+   "estado": "RES",
+   "importe": "80",
+   "adjudicado": "96.8",
+   "adjudicatario": "MASTER INGENIEROS S A",
+   "cpv": [
+    "50000000"
+   ],
+   "lugar": "Región de Murcia",
+   "ciudad": "Majadahonda (Madrid)",
+   "plazo": "",
+   "actualizado": "2026-09-11T15:48:08.266+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XYefxDfTonA3vLk2DU2Ddg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401713",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "P.G. 6.763,90 - Claitana servicios y mantenimientos - Refuerzo colocación jardineras entrada vuelta ciclista - Septiembre",
+   "expediente": "1640328J",
+   "organo": "Alcaldía del Ayuntamiento de Elche de la Sierra",
+   "estado": "RES",
+   "importe": "5590",
+   "adjudicado": "6763.9",
+   "adjudicatario": "Claitana Servicios y Mantenimientos, S.L.",
+   "cpv": [
+    "77312100"
+   ],
+   "lugar": "ALBACETE",
+   "ciudad": "Elche de la Sierra",
+   "plazo": "2026-08-30",
+   "actualizado": "2026-09-11T22:36:45.818+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4VIpj1xdASwXhk1FZxEyvw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401612",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato menor obra \"Pavimentación de vial V-1 de Pinet para la prevención de incendios forestales\". Fondo estrategico municipal. PIFFE/2026/0011/46",
+   "expediente": "2999329K",
+   "organo": "Alcaldia del Ayuntamiento de Pinet",
+   "estado": "RES",
+   "importe": "16214.41",
+   "adjudicado": "19619.44",
+   "adjudicatario": "JOAN ARTES CHAFER",
+   "cpv": [
+    "50230000"
+   ],
+   "lugar": "VALENCIA",
+   "ciudad": "Pinet",
+   "plazo": "2026-08-25",
+   "actualizado": "2026-09-12T00:02:26.340+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=A3y0gE0ILLcaF6cS8TCh%2FA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401531",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato Menor Servicios: Desbroce con cabra celtiverica de los cortafuegos de orden 1 y 2, del T.M. de Vallada con etiquetas xat-ac-42.01.04.0, xat ac-42.01.07.0;xat-ac-42.03.09.0;xat-ac-42.05.10.0. Subvención Fondo estratégico pr incencios y gestión forestal 2026",
+   "expediente": "2922776M",
+   "organo": "Alcaldía del Ayuntamiento de Vallada",
+   "estado": "RES",
+   "importe": "8618.11",
+   "adjudicado": "10427.91",
+   "adjudicatario": "RAMON CALATAYUD GOMEZ",
+   "cpv": [
+    "77312000"
+   ],
+   "lugar": "VALENCIA",
+   "ciudad": "Vallada (Valencia)",
+   "plazo": "2026-08-31",
+   "actualizado": "2026-09-12T00:03:26.072+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=G8kXDmb%2F8TTLIx6q1oPaMg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401523",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato menor suministro de sustratos, fertilizantes y fitosanitarios para las prácticas del alumnado de jardinería de Escuela Taller \"PAIPORTA URBAN NET2\" FESTA/2025/14/46",
+   "expediente": "2967605Z",
+   "organo": "Alcaldía del Ayuntamiento de Paiporta",
+   "estado": "RES",
+   "importe": "1405.9",
+   "adjudicado": "1701.14",
+   "adjudicatario": "MERCAJARDIN MORENO SOCIEDAD LIMITADA",
+   "cpv": [
+    "03120000"
+   ],
+   "lugar": "VALENCIA",
+   "ciudad": "Paiporta (Valencia)",
+   "plazo": "2026-09-03",
+   "actualizado": "2026-09-12T01:00:57.460+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=6VtMWcqRmI8aF6cS8TCh%2FA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401476",
+   "familias": [
+    "nucleo",
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Suministro de productos de jardinería, agrícolas y fitosanitarios",
+   "expediente": "2999289E",
+   "organo": "Alcaldía del Ayuntamiento de Cullera",
+   "estado": "RES",
+   "importe": "2954.3",
+   "adjudicado": "3249.73",
+   "adjudicatario": "SOCIEDAD COOPERATIVA CULLERCOOP COOP V",
+   "cpv": [
+    "03110000"
+   ],
+   "lugar": "VALENCIA",
+   "ciudad": "Cullera",
+   "plazo": "2026-08-23",
+   "actualizado": "2026-09-12T01:30:44.526+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=k%2FklJwmViLf10HRJw8TEnQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401458",
+   "familias": [
+    "nucleo",
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "URBEX. Recogida muestras UASA / URBEX. Arreplegada mostres UASA",
+   "expediente": "CMENOR/2026/26N06/0332-2026/13618",
+   "organo": "Dirección General de la Industria y Cadena Agroalimentaria",
+   "estado": "RES",
+   "importe": "9857",
+   "adjudicado": "11926.97",
+   "adjudicatario": "URBEX EXPRES, SL",
+   "cpv": [
+    "60000000"
+   ],
+   "lugar": "España",
+   "ciudad": "Valencia",
+   "plazo": "",
+   "actualizado": "2026-09-12T02:05:49.172+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eOfJlObNJzXI8aL3PRS10Q%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401422",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Adquisición de 30 paraguas protección solar UPF50+ serigrafiados con el logo de A punt / Adquisició de 30 paraigua protecció solar UPF50 serigrafiats amb el logo de punt",
+   "expediente": "CN5M26/CACVSA/99-2026/13828",
+   "organo": "Dirección General de la Corporación Audiovisual de la Comunitat Valenciana, S.A.",
+   "estado": "RES",
+   "importe": "248.4",
+   "adjudicado": "300.56",
+   "adjudicatario": "GIFT CAMPAIGN SL",
+   "cpv": [
+    "39295200"
+   ],
+   "lugar": "Valencia",
+   "ciudad": "Burjassot",
+   "plazo": "",
+   "actualizado": "2026-09-12T02:06:50.187+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MKPoECRtVjbjHF5qKI4aaw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401414",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Coordinación de Seguridad y Salud de las obras de adecuación aseos planta baja en el CRA EL SABINAR-Aulario Titaguas de Titaguas. / Coordinació de Seguretat i Salut de les obres d adequació lavabos planta baixa en el CRA EL SABINAR-Aulari Titaguas de Titaguas.",
+   "expediente": "CMENOR/2026/39N16/0296-2026/13671",
+   "organo": "Conselleria de Educación, Cultura y Universidades",
+   "estado": "RES",
+   "importe": "625",
+   "adjudicado": "756.25",
+   "adjudicatario": "VERDE FERNANDEZ JOSE IGNACIO",
+   "cpv": [
+    "71000000"
+   ],
+   "lugar": "España",
+   "ciudad": "Valencia",
+   "plazo": "",
+   "actualizado": "2026-09-12T02:09:45.527+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YcMW9JTsXwHmnwcj%2BxbdTg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401391",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato menor de suministro de un dron para el Área de Comunicación",
+   "expediente": "3003527Q",
+   "organo": "Alcaldía del Ayuntamiento de Paiporta",
+   "estado": "RES",
+   "importe": "933.06",
+   "adjudicado": "1129",
+   "adjudicatario": "ACRE SOLUCIONES TOPOGRAFICAS ALQUILER Y VENTA SL",
+   "cpv": [
+    "34711200"
+   ],
+   "lugar": "VALENCIA",
+   "ciudad": "Paiporta (Valencia)",
+   "plazo": "2026-09-02",
+   "actualizado": "2026-09-12T02:45:54.966+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YeQPcdFSDS%2Fmnwcj%2BxbdTg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401352",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Adquisición de materiales para mantenimiento de zonas verdes a Suministros Gómez en agosto 2026",
+   "expediente": "1642235H",
+   "organo": "Alcaldía del Ayuntamiento de La Recueja",
+   "estado": "RES",
+   "importe": "270.46",
+   "adjudicado": "327.26",
+   "adjudicatario": "Suministros Gómez S.L.",
+   "cpv": [
+    "44316400"
+   ],
+   "lugar": "ALBACETE",
+   "ciudad": "La Recueja",
+   "plazo": "2026-09-03",
+   "actualizado": "2026-09-13T00:34:03.982+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LtM6fRLgSAKGCFcHcNGIlQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401237",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "contrato menor SUMINISTRO bebidas para la carrera de las tres leguas agosto 2026",
+   "expediente": "1641148Y",
+   "organo": "Alcaldía del Ayuntamiento de Villamalea",
+   "estado": "RES",
+   "importe": "3605.48",
+   "adjudicado": "3605.48",
+   "adjudicatario": "D.B.A. MOLINERO GARCIA S.L.",
+   "cpv": [
+    "15000000"
+   ],
+   "lugar": "ALBACETE",
+   "ciudad": "Villamalea",
+   "plazo": "2026-09-01",
+   "actualizado": "2026-09-13T01:17:22.743+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ACuP1ojEORY7%2B9FIQYNjeQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20401123",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "contrato menor SERVICIO de restauración para las tres leguas agosto 2026",
+   "expediente": "1641602D",
+   "organo": "Alcaldía del Ayuntamiento de Villamalea",
+   "estado": "RES",
+   "importe": "153",
+   "adjudicado": "168.3",
+   "adjudicatario": "ELENA BULDUI",
+   "cpv": [
+    "55300000"
+   ],
+   "lugar": "ALBACETE",
+   "ciudad": "Villamalea",
+   "plazo": "2026-09-02",
+   "actualizado": "2026-09-13T03:47:00.433+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=JbbUwmDTEMgzjChw4z%2FXvw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20412688",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P2",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Reforestación y silvicultura distintos puntos ACMT Cenad San Gregorio",
+   "expediente": "2026/ETSAE0327/00005528E",
+   "organo": "Jefatura de Intendencia de Asuntos Económicos Este",
+   "estado": "RES",
+   "importe": "14999.99",
+   "adjudicado": "14520.95",
+   "adjudicatario": "ARAELECTRIC S.A.",
+   "cpv": [
+    "77231600"
+   ],
+   "lugar": "Zaragoza",
+   "ciudad": "Zaragoza",
+   "plazo": "2026-10-30",
+   "actualizado": "2026-09-04T11:30:54.533+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4JgaymNCgbFt5r0ngvMetA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20371857",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P3",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contrato de servicios de depuración de aguas residuales de Lillo.",
+   "expediente": "100/2026",
+   "organo": "Pleno del Alcaldía del Ayuntamiento de Lillo",
+   "estado": "EV",
+   "importe": "2242683.32",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "45252130",
+    "45259100",
+    "90420000",
+    "90481000"
+   ],
+   "lugar": "Toledo",
+   "ciudad": "Lillo",
+   "plazo": "2026-05-27",
+   "actualizado": "2026-09-07T09:25:37.178+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=HFSRv20rncM2wEhQbcAqug%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19579676",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio De Jardinería En El Aeropuerto",
+   "expediente": "GRX-54/2026",
+   "organo": "Aena. Dirección del Aeropuerto de Granada-Jaén F.G.L.",
+   "estado": "PUB",
+   "importe": "59000",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "77310000"
+   ],
+   "lugar": "Granada",
+   "ciudad": "Chauchina",
+   "plazo": "2026-09-07",
+   "actualizado": "2026-09-07T09:55:30.845+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=w%2BJe2NDnge6qb7rCcv76BA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20269497",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Servicio de formación en mantenimiento de drones fpv en la academia de logistica.",
+   "expediente": "2026/ETSAE0327/00003472E",
+   "organo": "Jefatura de Intendencia de Asuntos Económicos Este",
+   "estado": "RES",
+   "importe": "22500",
+   "adjudicado": "20146.5",
+   "adjudicatario": "PRECISIÓN AÉREA INNOVACIÓN Y NUEVAS TECNOLOGÍAS, S.L.",
+   "cpv": [
+    "79632000"
+   ],
+   "lugar": "Zaragoza",
+   "ciudad": "Zaragoza",
+   "plazo": "2026-08-04",
+   "actualizado": "2026-09-07T09:56:32.273+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=AzElriC0KxbjHF5qKI4aaw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20067888",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "obras del tanque de tormentas en la zona este, para la laminación de las aguas pluviales recogidas por la red de saneamiento del municipio de Marchamalo,",
+   "expediente": "871/2026",
+   "organo": "Alcaldia del Ayuntamiento de Marchamalo",
+   "estado": "EV",
+   "importe": "795165.5",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "44130000",
+    "45000000",
+    "45232411",
+    "45232420",
+    "45232421",
+    "45232454"
+   ],
+   "lugar": "Guadalajara",
+   "ciudad": "Marchamalo",
+   "plazo": "2026-08-26",
+   "actualizado": "2026-09-07T10:47:42.000+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=S9HDuxxybdaFQ%2FlhRK79lA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20232432",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Obras de construcción de dos pistas de pádel cubiertas en calle Los Pinos n.º 1, Benalúa (Granada) procedimiento abierto simplificado - art. 159 lcsp",
+   "expediente": "2024/4/PIDE-4",
+   "organo": "Alcaldía del Ayuntamiento de Benalúa",
+   "estado": "RES",
+   "importe": "121380",
+   "adjudicado": "146708.24",
+   "adjudicatario": "EQUIPAMIENTOS DEPORTIVOS, S.A.",
+   "cpv": [
+    "45212200",
+    "45212221"
+   ],
+   "lugar": "Granada",
+   "ciudad": "Benalúa",
+   "plazo": "2026-06-08",
+   "actualizado": "2026-09-07T12:12:56.391+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qaRq7TPQUxvs%2BnLj3vAg5A%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19705503",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Obras de construcción de la estación depuradora de aguas residuales de Sonseca (Toledo)",
+   "expediente": "2024/011657",
+   "organo": "Presidencia de Infraestructuras del Agua de Castilla-La Mancha",
+   "estado": "ADJ",
+   "importe": "7944037.49",
+   "adjudicado": "8008269.69",
+   "adjudicatario": "UTE ELECNOR SERVICIOS Y PROYECTOS SAU/AUDECA, S.L.U.",
+   "cpv": [
+    "45232420"
+   ],
+   "lugar": "Toledo",
+   "ciudad": "Toledo",
+   "plazo": "2025-01-16",
+   "actualizado": "2026-09-07T14:13:43.930+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Z7tXtMfUzraAAM7L03kM8A%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/16095507",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministros de reactivos, patrones, cubetas-test y fungibles para el laboratorio de aguas de la Diputación de Granada.",
+   "expediente": "SU 8/2026",
+   "organo": "Presidencia de la Diputación Provincial de Granada",
+   "estado": "ADJ",
+   "importe": "55402.18",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "33696500"
+   ],
+   "lugar": "Granada",
+   "ciudad": "Granada",
+   "plazo": "2026-07-03",
+   "actualizado": "2026-09-08T08:41:04.355+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kkxjLi98WwGHCIsjvJ3rhQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19893672",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "RF64023 Prospección red de evaluación fitosanitaria 2026",
+   "expediente": "MAT-2026-20055",
+   "organo": "Departamento de Medio Ambiente y Turismo del Gobierno de Aragón",
+   "estado": "EV",
+   "importe": "106903.01",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "77231000"
+   ],
+   "lugar": "Aragón",
+   "ciudad": "Zaragoza",
+   "plazo": "2026-06-22",
+   "actualizado": "2026-09-08T11:38:08.906+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LX2oDFeGEsCopEMYCmrbmw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19821439",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Ejecución de las obras de Remodelación del pavimento de la pista polideportiva del CEIP Hermanos Coronel Velázquez de Píñar (Granada), de acuerdo con el proyecto técnico redactado por la arquitecta municipal D. María José Orgaz Vargas, aprobado por el Ayuntamiento de Píñar en el marco del expediente 2023.4.PIDE36.",
+   "expediente": "2023/4/PIDE-36",
+   "organo": "Alcaldía del Ayuntamiento de Piñar",
+   "estado": "EV",
+   "importe": "49394.58",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "45212000",
+    "45212200"
+   ],
+   "lugar": "Granada",
+   "ciudad": "Piñar",
+   "plazo": "2026-08-31",
+   "actualizado": "2026-09-08T12:27:47.080+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=W4y2YsmYF1j5Rey58Yagpg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20297146",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Limpieza, desbroce y vallado de solares y paracelas de propiedad municipal.",
+   "expediente": "0074157-25",
+   "organo": "Consejería de Urbanismo, Infraestructuras, Energía y Vivienda del Ayuntamiento de Zaragoza",
+   "estado": "RES",
+   "importe": "117960.98",
+   "adjudicado": "142732.79",
+   "adjudicatario": "CATFER 2013, S.L.",
+   "cpv": [
+    "50800000",
+    "77312000",
+    "77312100",
+    "77314000"
+   ],
+   "lugar": "Zaragoza",
+   "ciudad": "Zaragoza",
+   "plazo": "2025-12-12",
+   "actualizado": "2026-09-08T14:21:44.030+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zJm%2FIgvOibZVYjgxA4nMUw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18477154",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P3",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Trabajos de poda en nueva O.E. Almadén",
+   "expediente": "2026/039301",
+   "organo": "Delegación Provincial de la Consejería de Economía, Empresas y Empleo en Ciudad Real",
+   "estado": "RES",
+   "importe": "600",
+   "adjudicado": "605",
+   "adjudicatario": "Infante Moyano, Santiago",
+   "cpv": [
+    "50000000"
+   ],
+   "lugar": "CiudadReal",
+   "ciudad": "Ciudad Real",
+   "plazo": "2026-11-09",
+   "actualizado": "2026-09-10T08:08:47.972+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=SzCo3LY2SrQeC9GJQOEBkQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20391312",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P3",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Suministro de hormigón para mantenimiento y construcción de vías públicas y zonas verdes Pozo de los Frailes y La Isleta del Moro.",
+   "expediente": "10582/2026",
+   "organo": "Alcaldía del Ayuntamiento de Níjar",
+   "estado": "RES",
+   "importe": "12124",
+   "adjudicado": "14670.04",
+   "adjudicatario": "INDALICA HORMIGONES S.L.",
+   "cpv": [
+    "44114000"
+   ],
+   "lugar": "Almería",
+   "ciudad": "Níjar",
+   "plazo": "",
+   "actualizado": "2026-09-10T13:16:34.276+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=l5OsUDSqf%2BlrSd8H4b2soA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390402",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P3",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Servicio de mantenimiento de plagas en palmeras",
+   "expediente": "2689/2025",
+   "organo": "Junta de Gobierno Local del Ayuntamiento de Guadix",
+   "estado": "RES",
+   "importe": "1900",
+   "adjudicado": "2299",
+   "adjudicatario": "Savia Ingtecnova S.L",
+   "cpv": [
+    "90922000"
+   ],
+   "lugar": "Granada",
+   "ciudad": "Guadix",
+   "plazo": "",
+   "actualizado": "2026-09-10T14:04:58.313+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=PJnPwwh%2FAy%2BIzo3LHNPGcQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390201",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P3",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Suministro de arena obra calle pinar",
+   "expediente": "2006/2026",
+   "organo": "Alcaldía del Ayuntamiento de Zurgena",
+   "estado": "RES",
+   "importe": "7950",
+   "adjudicado": "9619.5",
+   "adjudicatario": "OFIMOVIT S.L.",
+   "cpv": [],
+   "lugar": "Almería",
+   "ciudad": "Zurgena",
+   "plazo": "",
+   "actualizado": "2026-09-11T09:22:27.125+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LoLqapzAIv2ExvMJXBMHHQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402655",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P3",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "SSCC.PA/223/26 Póliza de seguros de Mapfre Nº 0652674596864 de tres drones ubicación: Serv. Caza y Pesca",
+   "expediente": "2026/039519",
+   "organo": "Viceconsejería de Medio Ambiente de la Junta de Comunidades de Castilla-La Mancha",
+   "estado": "RES",
+   "importe": "1376.81",
+   "adjudicado": "1376.81",
+   "adjudicatario": "MAPFRE ESPAÑA, COMPAÑÍA DE SEGUROS",
+   "cpv": [
+    "66510000"
+   ],
+   "lugar": "Castilla-LaMancha",
+   "ciudad": "Toledo",
+   "plazo": "2026-09-04",
+   "actualizado": "2026-09-11T13:13:24.824+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MCmYr3BR9Ds4NavIWzMcHA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402006",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P3",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Mantenimiento y explotación transitoria de las instalaciones de abastecimiento alternativo al embalse de El Tejo para garantizar la disponibilidad de recurso al municipio de El Espinar y a la Mancomunidad de La Mujer Muerta",
+   "expediente": "452-A.210.00.04/2026",
+   "organo": "Confederación Hidrográfica del Duero, O.A.",
+   "estado": "PUB",
+   "importe": "1148396.03",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "50500000",
+    "65120000"
+   ],
+   "lugar": "Segovia",
+   "ciudad": "Valladolid",
+   "plazo": "2026-09-07",
+   "actualizado": "2026-09-07T08:05:35.716+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZWf0n8DjPfbECtSnloz%2BZQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20329407",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "UT2 Servicio de realización de tratamientos selvícolas preventivos en los términos municipales de Maó y Es Castell, en la Isla de Menorca, para el proyecto actuacions silvícoles preventives sobre el territori previstes en els plans d'actuacions d'àmbit local davant emergències per incendis forestals de Menorca.",
+   "expediente": "TSA0083897",
+   "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+   "estado": "EV",
+   "importe": "130384.34",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "77200000"
+   ],
+   "lugar": "Menorca",
+   "ciudad": "Madrid",
+   "plazo": "2026-08-26",
+   "actualizado": "2026-09-07T08:35:05.164+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=NXz7VZUaSuLua%2Fi14w%2FPLA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20269643",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministro de fontanería necesarios en los diversos trabajos de la Empresa Municipal Aguas de Málaga, S.A. mediante Sistema Dinámico de Adquisición",
+   "expediente": "22-231",
+   "organo": "Consejero Delegado de la Empresa Municipal de Aguas de Málaga S.A.",
+   "estado": "EV",
+   "importe": "750000",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "42131141",
+    "42131230",
+    "42131280",
+    "43830000",
+    "44100000",
+    "44115210"
+   ],
+   "lugar": "Málaga",
+   "ciudad": "Málaga",
+   "plazo": "2027-06-18",
+   "actualizado": "2026-09-07T12:28:10.877+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KPJQIlUuxgKopEMYCmrbmw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12767945",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Establecimiento de un Sistema Dinámico de Adquisición para el suministro de materiales eléctricos de la Empresa Municipal Aguas de Málaga, S.A.",
+   "expediente": "25-659",
+   "organo": "Consejero Delegado de la Empresa Municipal de Aguas de Málaga S.A.",
+   "estado": "EV",
+   "importe": "1200000",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "31000000"
+   ],
+   "lugar": "Málaga",
+   "ciudad": "Málaga",
+   "plazo": "2030-01-30",
+   "actualizado": "2026-09-07T12:33:03.704+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MYQBpU1JUkqOUi78BmzhOQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18721872",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Contratación del servicio de analítica convencional, en aguas subterráneas y superficiales, y asesoramiento en fertilización de cultivos basado en la interpretación de analítica de suelos y agua de riego, para las anualidades 2026-2027, en el marco del proyecto 3055364 - Nitratos Castilla-La Mancha 2024-2027",
+   "expediente": "TEC0007129",
+   "organo": "Tecnologías y Servicios Agrarios S.A.,S.M.E., M.P., (TRAGSATEC)",
+   "estado": "EV",
+   "importe": "75745",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "71600000",
+    "71900000"
+   ],
+   "lugar": "España",
+   "ciudad": "Madrid",
+   "plazo": "2027-12-31",
+   "actualizado": "2026-09-07T17:10:02.481+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2BfvFmTDW8u04NavIWzMcHA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19994536",
+   "familias": [
+    "nucleo",
+    "urbano_agricola"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "[UT4] Servicio de gestión de residuos no peligrosos para la obra de Acondicionamiento paisajístico del Oasis Palmeral de Maspalomas, Término Municipal de San Bartolomé de Tirajana, isla de Gran Canaria.",
+   "expediente": "TSA0083924",
+   "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+   "estado": "EV",
+   "importe": "61962.4",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "90513000"
+   ],
+   "lugar": "Gran Canaria",
+   "ciudad": "Madrid",
+   "plazo": "2026-09-03",
+   "actualizado": "2026-09-08T12:09:43.695+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Mdi5tCh5N98%2Bk2oCbDosIw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20317146",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "[UT4] Servicio de transporte por carretera en la obra Albergue Juvenil en el Pinar de Tamadaba, en el término municipal de Agaete. Isla de Gran Canaria.",
+   "expediente": "TSA0083640",
+   "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+   "estado": "ADJ",
+   "importe": "129760",
+   "adjudicado": "117058",
+   "adjudicatario": "Transportes Rivero Siglo XX,S.L",
+   "cpv": [
+    "60100000"
+   ],
+   "lugar": "Gran Canaria",
+   "ciudad": "Madrid",
+   "plazo": "2026-08-17",
+   "actualizado": "2026-09-08T12:29:57.181+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=azyI9sGgI8%2FyoM4us5k4vw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20232941",
+   "familias": [
+    "forestal"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministro de caudalímetros para el control de las aguas residuales para la obra \"Ampliación y Mejora de la EDAR de Playa de Santiago (T.M. Alajeró)\", en la isla de La Gomera.",
+   "expediente": "TSA0082986",
+   "organo": "Empresa de Transformación Agraria S.A.,S.M.E., M.P., (TRAGSA)",
+   "estado": "RES",
+   "importe": "19665.74",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "38421000"
+   ],
+   "lugar": "La Gomera",
+   "ciudad": "Madrid",
+   "plazo": "2026-05-28",
+   "actualizado": "2026-09-08T12:41:01.169+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Srr2oZLhJ3B%2FP7lJ7Fu0SA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19596651",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "Suministro, instalación, configuración, puesta en marcha y mantenimiento del los sistemas de gestión padrón municipal de Alcantarilla",
+   "expediente": "1280748R",
+   "organo": "Alcaldía del Ayuntamiento de Alcantarilla",
+   "estado": "EV",
+   "importe": "156090",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "48900000",
+    "72262000",
+    "72267100",
+    "72590000"
+   ],
+   "lugar": "",
+   "ciudad": "Alcantarilla",
+   "plazo": "2026-09-07",
+   "actualizado": "2026-09-08T13:29:54.386+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XG5nvtjGrWWcCF8sV%2BqtYA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20328798",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "[UT4] Servicio de transporte y gestión de residuos, incluyendo alquiler de contenedores para control de plagas en la isla de Gran Canaria.",
+   "expediente": "TEC0007134",
+   "organo": "Tecnologías y Servicios Agrarios S.A.,S.M.E., M.P., (TRAGSATEC)",
+   "estado": "ADJ",
+   "importe": "64440",
+   "adjudicado": "68950.8",
+   "adjudicatario": "Transportes Rivero Siglo XX,S.L",
+   "cpv": [
+    "90500000"
+   ],
+   "lugar": "Gran Canaria",
+   "ciudad": "Madrid",
+   "plazo": "2026-08-17",
+   "actualizado": "2026-09-08T15:08:30.834+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=dcpF0B8%2FecQwYTJJ03sHog%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20234047",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "licitaciones"
+  },
+  {
+   "titulo": "servicio de instalación tanques de inercia y adecuación grupos hidrónicos de calor para instalación de clima del edificio de servicios área de el fresno. red logística bahía de algeciras",
+   "expediente": "AB-BA26-000396",
+   "organo": "",
+   "estado": "EV",
+   "importe": "60500",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "50711000"
+   ],
+   "lugar": "",
+   "ciudad": "",
+   "plazo": "2026-08-25",
+   "actualizado": "2026-09-09T11:41:43.750+02:00",
+   "enlace": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=982514",
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20279024",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "agregadas"
+  },
+  {
+   "titulo": "És objecte d’aquest contracte la prestació del servei d’organització integral de la sortida cultural al castell Gala Dalí, a Púbol, adreçada a les persones de 60 anys o més empadronades a Parets del Vallès, d’acord amb les especificacions establertes en aquest plec de clàusules administratives particulars, en el plec de prescripcions tècniques i en la resta de documentació contractual.",
+   "expediente": "2026 2356",
+   "organo": "Ajuntament de Parets del Vallès",
+   "estado": "PENDIENTE",
+   "importe": "14872",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "63510000",
+    "63511000",
+    "63515000",
+    "63516000"
+   ],
+   "lugar": "",
+   "ciudad": "",
+   "plazo": "2026-11-06",
+   "actualizado": "2026-09-09T12:04:53.004+02:00",
+   "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/2083fa0f-0e0b-4bdd-a382-ce05107305ba/300878410",
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20147481",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "agregadas"
+  },
+  {
+   "titulo": "taa4104osv0 poliza seguro responsabilidad civil drones de la aopja",
+   "expediente": "CONTR 2024 0000459862",
+   "organo": "",
+   "estado": "RES",
+   "importe": "450",
+   "adjudicado": "",
+   "adjudicatario": "MAPFRE ESPAÑA COMPAÑIA DE SEGUROS Y REASEGUROS SA",
+   "cpv": [
+    "66516200"
+   ],
+   "lugar": "",
+   "ciudad": "",
+   "plazo": "2024-06-19",
+   "actualizado": "2026-09-09T12:41:14.478+02:00",
+   "enlace": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=685202",
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/15043242",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "agregadas"
+  },
+  {
+   "titulo": "Repuestos para campañas de magnetometría a bordo de drones",
+   "expediente": "582026054099",
+   "organo": "Secretaría General del INTA",
+   "estado": "RES",
+   "importe": "22500",
+   "adjudicado": "21770",
+   "adjudicatario": "SPH Engineering, SIA",
+   "cpv": [
+    "34730000"
+   ],
+   "lugar": "Madrid",
+   "ciudad": "Torrejón de Ardoz",
+   "plazo": "2026-09-07",
+   "actualizado": "2026-09-10T09:31:29.270+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=rRxa8jAB%2BtTN3k3tjedSGw%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20391063",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contratación vuelo dron",
+   "expediente": "1271/2026",
+   "organo": "Presidencia de la Autoridad Portuaria de Ferrol San Cibrao",
+   "estado": "RES",
+   "importe": "1700",
+   "adjudicado": "2057",
+   "adjudicatario": "Miraveo Assets S.L.",
+   "cpv": [],
+   "lugar": "A Coruña",
+   "ciudad": "Ferrol",
+   "plazo": "",
+   "actualizado": "2026-09-10T12:05:43.645+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4Ac6sJeGx1IIYE3ZiZ%2BxmQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390620",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contratación de póliza de seguros para el dron adquirido por la policía local.",
+   "expediente": "5387/2026",
+   "organo": "Alcaldía del Ayuntamiento de Torrelodones",
+   "estado": "RES",
+   "importe": "274.83",
+   "adjudicado": "274.83",
+   "adjudicatario": "SEGUROS CASER",
+   "cpv": [],
+   "lugar": "Madrid",
+   "ciudad": "Torrelodones",
+   "plazo": "",
+   "actualizado": "2026-09-10T13:46:38.706+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yIVxA9DwfbD%2B3JAijKO%2Bkg%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390259",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "- Realització i edició de reportatges fotogràfics: Consistent en la realització de reportatges fotogràfics d'actes institucionals, de l'evolució de la ciutat, de les activitats socials, culturals i esportives al municipi, de les campanyes de comunicació, fotografies d’estudi i altres reportatges per il·lustrar els elements informatius municipals i el material de difusió institucional de l’Ajuntament de Sabadell - Creació, producció i edició de vídeos: Serveis de producció, realització, gravació i edició de continguts audiovisuals de caràcter periodístic o informatiu, institucional, promocional o turístic de l'Ajuntament de Sabadell. Així com l’emissió en streaming. - Captació d’imatges aèries amb dron.",
+   "expediente": "COM/2026/20",
+   "organo": "Ajuntament de Sabadell",
+   "estado": "EN",
+   "importe": "84741.1",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "79961000",
+    "79961200",
+    "92111200"
+   ],
+   "lugar": "",
+   "ciudad": "",
+   "plazo": "2026-09-15",
+   "actualizado": "2026-09-10T14:08:14.808+02:00",
+   "enlace": "https://contractaciopublica.cat/ca/detall-publicacio/555919ba-97b0-410d-b89a-6561c272f5fd/300880104",
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20384755",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "agregadas"
+  },
+  {
+   "titulo": "Alquiler de un equipo de detección de UAS (drones) para miembro de la Casa Real durante su primer año lectivo en la Universidad Carlos III de Madrid en Getafe del 1 de septiembre de 2026 al 31 de julio de 2027.",
+   "expediente": "X260294SSOFM",
+   "organo": "Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad",
+   "estado": "RES",
+   "importe": "14980",
+   "adjudicado": "18125.8",
+   "adjudicatario": "Jojacar Telecomunicaciones SL",
+   "cpv": [],
+   "lugar": "Madrid",
+   "ciudad": "Madrid",
+   "plazo": "",
+   "actualizado": "2026-09-10T14:30:28.688+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4IfATDlQUf0adbH3CysQuQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20390156",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "adquisición de material para el escuadrón de mantenimiento de aeronaves",
+   "expediente": "2026/EA22/00001559E",
+   "organo": "Jefatura de la Sección Económico Administrativa 22 - Base Aérea de Torrejón (Agrupación de Base)",
+   "estado": "RES",
+   "importe": "7757.67",
+   "adjudicado": "9386.78",
+   "adjudicatario": "BOIMA LOGISTICA S.L.",
+   "cpv": [
+    "24951100"
+   ],
+   "lugar": "Comunidad de Madrid",
+   "ciudad": "Torrejón de Ardoz",
+   "plazo": "",
+   "actualizado": "2026-09-11T08:18:37.685+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9P%2Bl5WXDROWLAncw3qdZkA%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402770",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Mantenimiento y Conservación de jardines y zonas verdes ubicados en el centro de control de cuenca sito en la Esclusa nº 42 del Canal de Castilla en Valladolid.",
+   "expediente": "M 2026-17/210",
+   "organo": "Confederación Hidrográfica del Duero, O.A.",
+   "estado": "RES",
+   "importe": "10468",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "71421000"
+   ],
+   "lugar": "Valladolid",
+   "ciudad": "Valladolid",
+   "plazo": "2026-09-04",
+   "actualizado": "2026-09-11T10:08:46.874+02:00",
+   "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iOqsWevfqYgIYE3ZiZ%2BxmQ%3D%3D",
+   "id": "https://contrataciondelestado.es/sindicacion/datosAbiertosMenores/20402537",
+   "familias": [
+    "urbano_agricola"
+   ],
+   "prioridad": "P4",
+   "fuente": "menores"
+  },
+  {
+   "titulo": "Contratación del servicio de tratamiento contra la procesionaria del pino (Thaumetopoea pityocampa Den. & Shciff.) mediante aplicación aérea de productos fitosanitarios con helicóptero de turbina en la campaña 2026.",
+   "expediente": "ADM1 2026 3540",
+   "organo": "",
+   "estado": "RES",
+   "importe": "58800",
+   "adjudicado": "",
+   "adjudicatario": "",
+   "cpv": [
+    "34711500"
+   ],
+   "lugar": "",
+   "ciudad": "",
+   "plazo": "2026-08-21",
+   "actualizado": "2026-09-11T13:11:34.845+02:00",
+   "enlace": "https://www.contratacion.euskadi.eus/webkpe00-kpeperfi/es/contenidos/anuncio_contratacion/expjaso732692/es_doc/index.html",
+   "id": "https://contrataciondelestado.es/sindicacion/PlataformasAgregadasSinMenores/20272440",
+   "familias": [
+    "nucleo"
+   ],
+   "prioridad": "P4",
+   "fuente": "agregadas"
+  }
+ ],
+ "seguimiento": []
+}
