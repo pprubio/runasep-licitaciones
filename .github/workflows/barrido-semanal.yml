@@ -13,7 +13,8 @@ permissions:
 jobs:
   barrido:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    # El servidor de la Plataforma tarda 30-45 s por página: con 45 min se cancelaba cada semana
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
