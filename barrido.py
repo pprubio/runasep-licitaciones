@@ -11,6 +11,7 @@ Uso:
 """
 from __future__ import annotations
 
+from concurrent.futures import ThreadPoolExecutor
 import argparse
 import json
 import re
@@ -356,14 +357,19 @@ def main() -> int:
     SALIDA.mkdir(exist_ok=True)
     HISTORICO.mkdir(exist_ok=True)
 
-    ses = sesion()
-    fuentes = []
+    # Las tres fuentes a la vez, cada una con su sesión: el servidor tarda 30-45 s por página
+    # (15 MB sin comprimir) y en serie el barrido semanal pasaba de los 45 min del workflow
+    # (cancelado todas las semanas desde el 02/10/2026). En paralelo tarda lo que la más larga.
+    trabajos = []
     for nombre, url in config.FEEDS.items():
         if args.solo and nombre != args.solo:
             continue
         dias = args.dias or config.DIAS_ATRAS.get(nombre, 9)
         corte = datetime.now(timezone.utc) - timedelta(days=dias)
-        fuentes.append(barre_fuente(ses, nombre, url, corte))
+        trabajos.append((nombre, url, corte))
+    with ThreadPoolExecutor(max_workers=len(trabajos) or 1) as ex:
+        futuros = [ex.submit(barre_fuente, sesion(), nombre, url, corte) for nombre, url, corte in trabajos]
+        fuentes = [f.result() for f in futuros]   # mismo orden que config.FEEDS
 
     hits = [h for f in fuentes for h in f["hits"]]
     hits.sort(key=lambda h: (ORDEN.get(h["prioridad"], 9), h["actualizado"]), reverse=False)
